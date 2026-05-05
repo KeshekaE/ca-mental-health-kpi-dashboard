@@ -2,10 +2,6 @@
 
 An end-to-end data pipeline and interactive Tableau dashboard analyzing mental health service utilization across California counties using real data from the California Health and Human Services (CHHS) Open Data Portal.
 
-## Live Dashboard
-
-[View on Tableau Public](https://public.tableau.com/app/profile/kesheka.edupuganti8192/viz/CaliforniaMentalHealthServicesKPIDashboard/CaliforniaMentalHealthServicesKPIDashboard)
-
 ## Project Overview
 
 This project explores patterns in California's public mental health system across four fiscal years (2019/20 to 2022/23), covering county-level beneficiary counts, delivery system trends, and demographic breakdowns by sex and race/ethnicity.
@@ -53,7 +49,15 @@ powerbi_data/
 05_county_summary.csv
 California Public Health KPI Dashboard_PowerBI Prep.ipynb
 
-## Author
 
-Kesheka Edupuganti
-[Portfolio](https://keportfolio.vercel.app) | [Tableau Profile](https://public.tableau.com/app/profile/kesheka.edupuganti8192/vizzes)
+## Dashboard
+[View live on Tableau Public →](https://public.tableau.com/app/profile/kesheka.edupuganti8192/viz/CaliforniaMentalHealthServicesKPIDashboard/CaliforniaMentalHealthServicesKPIDashboard)
+
+## Portfolio
+[Portfolio Link →](https://keportfolio.vercel.app)
+
+## Author
+**Kesheka Edupuganti**  
+Data Analyst & BI Specialist | Loma Linda, CA  
+ekesheka1010@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/kesheka-edupuganti-b53a96293/)
