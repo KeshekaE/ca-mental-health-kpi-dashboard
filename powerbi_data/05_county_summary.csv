@@ -1,0 +1,237 @@
+county,fiscal_year,delivery_system,beneficiaries,yoy_growth_pct,dominant_sex,dominant_race,dominant_age_group
+Alameda,2019/20,Total,105662.0,,Female,Black,21-32
+Alameda,2020/21,Total,107033.0,1.3,Female,Black,21-32
+Alameda,2021/22,Total,108214.0,1.1,Female,Black,21-32
+Alameda,2022/23,Total,113715.0,5.08,Female,Black,21-32
+Alpine,2019/20,Total,14.0,,Female,Black,21-32
+Alpine,2020/21,Total,13.0,-7.14,Female,Black,21-32
+Alpine,2021/22,Total,29.0,123.08,Female,Black,21-32
+Alpine,2022/23,Total,12.0,-58.62,Female,Black,21-32
+Amador,2019/20,Total,3182.0,,Female,White,33-44
+Amador,2020/21,Total,3253.0,2.23,Female,White,33-44
+Amador,2021/22,Total,3690.0,13.43,Female,White,33-44
+Amador,2022/23,Total,3825.0,3.66,Female,White,33-44
+Butte,2019/20,Total,33266.0,,Female,White,21-32
+Butte,2020/21,Total,34357.0,3.28,Female,White,21-32
+Butte,2021/22,Total,33055.0,-3.79,Female,White,21-32
+Butte,2022/23,Total,33126.0,0.21,Female,White,21-32
+Calaveras,2019/20,Total,4234.0,,Female,White,33-44
+Calaveras,2020/21,Total,4649.0,9.8,Female,White,33-44
+Calaveras,2021/22,Total,4676.0,0.58,Female,White,33-44
+Calaveras,2022/23,Total,4871.0,4.17,Female,White,33-44
+Colusa,2019/20,Total,1801.0,,Female,Hispanic,21-32
+Colusa,2020/21,Total,2091.0,16.1,Female,Hispanic,21-32
+Colusa,2021/22,Total,2259.0,8.03,Female,Hispanic,21-32
+Colusa,2022/23,Total,3312.0,46.61,Female,Hispanic,21-32
+Contra Costa,2019/20,Total,62920.0,,Female,White,21-32
+Contra Costa,2020/21,Total,67013.0,6.51,Female,White,21-32
+Contra Costa,2021/22,Total,74677.0,11.44,Female,White,21-32
+Contra Costa,2022/23,Total,77196.0,3.37,Female,White,21-32
+Del Norte,2019/20,Total,5257.0,,Female,White,33-44
+Del Norte,2020/21,Total,5331.0,1.41,Female,White,33-44
+Del Norte,2021/22,Total,5113.0,-4.09,Female,White,33-44
+Del Norte,2022/23,Total,4925.0,-3.68,Female,White,33-44
+El Dorado,2019/20,Total,13175.0,,Female,White,33-44
+El Dorado,2020/21,Total,13461.0,2.17,Female,White,33-44
+El Dorado,2021/22,Total,13080.0,-2.83,Female,White,33-44
+El Dorado,2022/23,Total,13475.0,3.02,Female,White,33-44
+Fresno,2019/20,Total,104867.0,,Female,Hispanic,21-32
+Fresno,2020/21,Total,112249.0,7.04,Female,Hispanic,21-32
+Fresno,2021/22,Total,109553.0,-2.4,Female,Hispanic,21-32
+Fresno,2022/23,Total,112841.0,3.0,Female,Hispanic,21-32
+Glenn,2019/20,Total,3612.0,,Female,White,21-32
+Glenn,2020/21,Total,3716.0,2.88,Female,White,21-32
+Glenn,2021/22,Total,3563.0,-4.12,Female,White,21-32
+Glenn,2022/23,Total,3744.0,5.08,Female,White,21-32
+Humboldt,2019/20,Total,24684.0,,Female,White,21-32
+Humboldt,2020/21,Total,27740.0,12.38,Female,White,21-32
+Humboldt,2021/22,Total,28161.0,1.52,Female,White,21-32
+Humboldt,2022/23,Total,29098.0,3.33,Female,White,21-32
+Imperial,2019/20,Total,22358.0,,Female,Hispanic,21-32
+Imperial,2020/21,Total,22862.0,2.25,Female,Hispanic,21-32
+Imperial,2021/22,Total,24073.0,5.3,Female,Hispanic,21-32
+Imperial,2022/23,Total,25530.0,6.05,Female,Hispanic,21-32
+Inyo,2019/20,Total,1780.0,,Female,White,21-32
+Inyo,2020/21,Total,1937.0,8.82,Female,White,21-32
+Inyo,2021/22,Total,1685.0,-13.01,Female,White,21-32
+Inyo,2022/23,Total,1811.0,7.48,Female,White,21-32
+Kern,2019/20,Total,102218.0,,Female,Hispanic,21-32
+Kern,2020/21,Total,109745.0,7.36,Female,Hispanic,21-32
+Kern,2021/22,Total,119425.0,8.82,Female,Hispanic,21-32
+Kern,2022/23,Total,133737.0,11.98,Female,Hispanic,21-32
+Kings,2019/20,Total,16153.0,,Female,Hispanic,21-32
+Kings,2020/21,Total,15576.0,-3.57,Female,Hispanic,21-32
+Kings,2021/22,Total,15303.0,-1.75,Female,Hispanic,21-32
+Kings,2022/23,Total,15890.0,3.84,Female,Hispanic,21-32
+Lake,2019/20,Total,12275.0,,Female,White,21-32
+Lake,2020/21,Total,12783.0,4.14,Female,White,21-32
+Lake,2021/22,Total,13585.0,6.27,Female,White,21-32
+Lake,2022/23,Total,14214.0,4.63,Female,White,21-32
+Lassen,2019/20,Total,3482.0,,Female,White,21-32
+Lassen,2020/21,Total,3793.0,8.93,Female,White,21-32
+Lassen,2021/22,Total,3430.0,-9.57,Female,White,21-32
+Lassen,2022/23,Total,3668.0,6.94,Female,White,21-32
+Los Angeles,2019/20,Total,869774.0,,Female,Hispanic,21-32
+Los Angeles,2020/21,Total,887901.0,2.08,Female,Hispanic,21-32
+Los Angeles,2021/22,Total,932253.0,5.0,Female,Hispanic,21-32
+Los Angeles,2022/23,Total,1048610.0,12.48,Female,Hispanic,21-32
+Madera,2019/20,Total,15983.0,,Female,Hispanic,21-32
+Madera,2020/21,Total,27827.0,74.1,Female,Hispanic,21-32
+Madera,2021/22,Total,21389.0,-23.14,Female,Hispanic,21-32
+Madera,2022/23,Total,24346.0,13.82,Female,Hispanic,21-32
+Marin,2019/20,Total,18287.0,,Female,White,21-32
+Marin,2020/21,Total,19804.0,8.3,Female,White,21-32
+Marin,2021/22,Total,22548.0,13.86,Female,White,21-32
+Marin,2022/23,Total,21669.0,-3.9,Female,White,21-32
+Mariposa,2019/20,Total,2445.0,,Female,White,33-44
+Mariposa,2020/21,Total,2413.0,-1.31,Female,White,33-44
+Mariposa,2021/22,Total,2412.0,-0.04,Female,White,33-44
+Mariposa,2022/23,Total,2375.0,-1.53,Female,White,33-44
+Mendocino,2019/20,Total,18242.0,,Female,White,21-32
+Mendocino,2020/21,Total,17120.0,-6.15,Female,White,21-32
+Mendocino,2021/22,Total,17783.0,3.87,Female,White,21-32
+Mendocino,2022/23,Total,18904.0,6.3,Female,White,21-32
+Merced,2019/20,Total,29086.0,,Female,Hispanic,21-32
+Merced,2020/21,Total,30691.0,5.52,Female,Hispanic,21-32
+Merced,2021/22,Total,31526.0,2.72,Female,Hispanic,21-32
+Merced,2022/23,Total,34853.0,10.55,Female,Hispanic,21-32
+Modoc,2019/20,Total,1661.0,,Female,White,45-56
+Modoc,2020/21,Total,1572.0,-5.36,Female,White,45-56
+Modoc,2021/22,Total,1539.0,-2.1,Female,White,45-56
+Modoc,2022/23,Total,1644.0,6.82,Female,White,45-56
+Mono,2019/20,Total,805.0,,Female,White,21-32
+Mono,2020/21,Total,883.0,9.69,Female,White,21-32
+Mono,2021/22,Total,1007.0,14.04,Female,White,21-32
+Mono,2022/23,Total,923.0,-8.34,Female,White,21-32
+Monterey,2019/20,Total,41373.0,,Female,Hispanic,21-32
+Monterey,2020/21,Total,42312.0,2.27,Female,Hispanic,21-32
+Monterey,2021/22,Total,42409.0,0.23,Female,Hispanic,21-32
+Monterey,2022/23,Total,46614.0,9.92,Female,Hispanic,21-32
+Napa,2019/20,Total,9727.0,,Female,White,21-32
+Napa,2020/21,Total,9720.0,-0.07,Female,White,21-32
+Napa,2021/22,Total,10700.0,10.08,Female,White,21-32
+Napa,2022/23,Total,11141.0,4.12,Female,White,21-32
+Nevada,2019/20,Total,12173.0,,Female,White,33-44
+Nevada,2020/21,Total,13470.0,10.65,Female,White,33-44
+Nevada,2021/22,Total,13672.0,1.5,Female,White,33-44
+Nevada,2022/23,Total,15763.0,15.29,Female,White,33-44
+Orange,2019/20,Total,223645.0,,Female,White,21-32
+Orange,2020/21,Total,213989.0,-4.32,Female,White,21-32
+Orange,2021/22,Total,235876.0,10.23,Female,White,21-32
+Orange,2022/23,Total,269906.0,14.43,Female,White,21-32
+Placer,2019/20,Total,21013.0,,Female,White,21-32
+Placer,2020/21,Total,22431.0,6.75,Female,White,21-32
+Placer,2021/22,Total,22611.0,0.8,Female,White,21-32
+Placer,2022/23,Total,24245.0,7.23,Female,White,21-32
+Plumas,2019/20,Total,2555.0,,Female,White,21-32
+Plumas,2020/21,Total,2291.0,-10.33,Female,White,21-32
+Plumas,2021/22,Total,2437.0,6.37,Female,White,21-32
+Plumas,2022/23,Total,2243.0,-7.96,Female,White,21-32
+Riverside,2019/20,Total,222291.0,,Female,Hispanic,21-32
+Riverside,2020/21,Total,235176.0,5.8,Female,Hispanic,21-32
+Riverside,2021/22,Total,260824.0,10.91,Female,Hispanic,21-32
+Riverside,2022/23,Total,307566.0,17.92,Female,Hispanic,21-32
+Sacramento,2019/20,Total,159924.0,,Female,White,21-32
+Sacramento,2020/21,Total,165374.0,3.41,Female,White,21-32
+Sacramento,2021/22,Total,163466.0,-1.15,Female,White,21-32
+Sacramento,2022/23,Total,172900.0,5.77,Female,White,21-32
+San Benito,2019/20,Total,3312.0,,Female,Hispanic,21-32
+San Benito,2020/21,Total,3526.0,6.46,Female,Hispanic,21-32
+San Benito,2021/22,Total,3508.0,-0.51,Female,Hispanic,21-32
+San Benito,2022/23,Total,3722.0,6.1,Female,Hispanic,21-32
+San Bernardino,2019/20,Total,223440.0,,Female,Hispanic,21-32
+San Bernardino,2020/21,Total,228395.0,2.22,Female,Hispanic,21-32
+San Bernardino,2021/22,Total,249308.0,9.16,Female,Hispanic,21-32
+San Bernardino,2022/23,Total,289218.0,16.01,Female,Hispanic,21-32
+San Diego,2019/20,Total,322904.0,,Female,White,21-32
+San Diego,2020/21,Total,321494.0,-0.44,Female,White,21-32
+San Diego,2021/22,Total,343384.0,6.81,Female,White,21-32
+San Diego,2022/23,Total,386702.0,12.62,Female,White,21-32
+San Francisco,2019/20,Total,69799.0,,Male,Other,33-44
+San Francisco,2020/21,Total,71446.0,2.36,Male,Other,33-44
+San Francisco,2021/22,Total,72589.0,1.6,Male,Other,33-44
+San Francisco,2022/23,Total,75540.0,4.07,Male,Other,33-44
+San Joaquin,2019/20,Total,100206.0,,Female,Hispanic,21-32
+San Joaquin,2020/21,Total,104167.0,3.95,Female,Hispanic,21-32
+San Joaquin,2021/22,Total,100575.0,-3.45,Female,Hispanic,21-32
+San Joaquin,2022/23,Total,114433.0,13.78,Female,Hispanic,21-32
+San Luis Obispo,2019/20,Total,27558.0,,Female,White,21-32
+San Luis Obispo,2020/21,Total,31309.0,13.61,Female,White,21-32
+San Luis Obispo,2021/22,Total,30446.0,-2.76,Female,White,21-32
+San Luis Obispo,2022/23,Total,33690.0,10.65,Female,White,21-32
+San Mateo,2019/20,Total,46908.0,,Female,Hispanic,21-32
+San Mateo,2020/21,Total,45474.0,-3.06,Female,Hispanic,21-32
+San Mateo,2021/22,Total,48081.0,5.73,Female,Hispanic,21-32
+San Mateo,2022/23,Total,51861.0,7.86,Female,Hispanic,21-32
+Santa Barbara,2019/20,Total,39639.0,,Female,White,21-32
+Santa Barbara,2020/21,Total,44723.0,12.83,Female,White,21-32
+Santa Barbara,2021/22,Total,46481.0,3.93,Female,White,21-32
+Santa Barbara,2022/23,Total,52010.0,11.9,Female,White,21-32
+Santa Clara,2019/20,Total,83496.0,,Female,Hispanic,21-32
+Santa Clara,2020/21,Total,91936.0,10.11,Female,Hispanic,21-32
+Santa Clara,2021/22,Total,98659.0,7.31,Female,Hispanic,21-32
+Santa Clara,2022/23,Total,105361.0,6.79,Female,Hispanic,21-32
+Santa Cruz,2019/20,Total,33686.0,,Female,White,21-32
+Santa Cruz,2020/21,Total,33283.0,-1.2,Female,White,21-32
+Santa Cruz,2021/22,Total,34185.0,2.71,Female,White,21-32
+Santa Cruz,2022/23,Total,35255.0,3.13,Female,White,21-32
+Shasta,2019/20,Total,32609.0,,Female,White,33-44
+Shasta,2020/21,Total,32551.0,-0.18,Female,White,33-44
+Shasta,2021/22,Total,32709.0,0.49,Female,White,33-44
+Shasta,2022/23,Total,35489.0,8.5,Female,White,33-44
+Sierra,2019/20,Total,38.0,,Male,Asian/Pacific Islander,57-68
+Sierra,2020/21,Total,56.0,47.37,Male,Asian/Pacific Islander,57-68
+Sierra,2021/22,Total,116.0,107.14,Male,Asian/Pacific Islander,57-68
+Sierra,2022/23,Total,79.0,-31.9,Male,Asian/Pacific Islander,57-68
+Siskiyou,2019/20,Total,8225.0,,Female,White,33-44
+Siskiyou,2020/21,Total,8398.0,2.1,Female,White,33-44
+Siskiyou,2021/22,Total,8287.0,-1.32,Female,White,33-44
+Siskiyou,2022/23,Total,7916.0,-4.48,Female,White,33-44
+Small-Rural Counties,2019/20,Total,41800.0,,Female,White,33-44
+Small-Rural Counties,2020/21,Total,43294.0,3.57,Female,White,33-44
+Small-Rural Counties,2021/22,Total,43024.0,-0.62,Female,White,33-44
+Small-Rural Counties,2022/23,Total,44484.0,3.39,Female,White,33-44
+Solano,2019/20,Total,37091.0,,Female,White,21-32
+Solano,2020/21,Total,38904.0,4.89,Female,White,21-32
+Solano,2021/22,Total,39196.0,0.75,Female,White,21-32
+Solano,2022/23,Total,40410.0,3.1,Female,White,21-32
+Sonoma,2019/20,Total,44277.0,,Female,White,21-32
+Sonoma,2020/21,Total,43065.0,-2.74,Female,White,21-32
+Sonoma,2021/22,Total,45709.0,6.14,Female,White,21-32
+Sonoma,2022/23,Total,49096.0,7.41,Female,White,21-32
+Stanislaus,2019/20,Total,61542.0,,Female,White,21-32
+Stanislaus,2020/21,Total,60504.0,-1.69,Female,White,21-32
+Stanislaus,2021/22,Total,58415.0,-3.45,Female,White,21-32
+Stanislaus,2022/23,Total,66791.0,14.34,Female,White,21-32
+Sutter,2019/20,Total,9459.0,,Female,White,21-32
+Sutter,2020/21,Total,9787.0,3.47,Female,White,21-32
+Sutter,2021/22,Total,10109.0,3.29,Female,White,21-32
+Sutter,2022/23,Total,10726.0,6.1,Female,White,21-32
+Tehama,2019/20,Total,9078.0,,Female,White,21-32
+Tehama,2020/21,Total,8595.0,-5.32,Female,White,21-32
+Tehama,2021/22,Total,7943.0,-7.59,Female,White,21-32
+Tehama,2022/23,Total,8606.0,8.35,Female,White,21-32
+Trinity,2019/20,Total,1562.0,,Female,White,33-44
+Trinity,2020/21,Total,1782.0,14.08,Female,White,33-44
+Trinity,2021/22,Total,1790.0,0.45,Female,White,33-44
+Trinity,2022/23,Total,1931.0,7.88,Female,White,33-44
+Tulare,2019/20,Total,53548.0,,Female,Hispanic,21-32
+Tulare,2020/21,Total,53938.0,0.73,Female,Hispanic,21-32
+Tulare,2021/22,Total,56598.0,4.93,Female,Hispanic,21-32
+Tulare,2022/23,Total,62250.0,9.99,Female,Hispanic,21-32
+Tuolumne,2019/20,Total,6535.0,,Female,White,33-44
+Tuolumne,2020/21,Total,6487.0,-0.73,Female,White,33-44
+Tuolumne,2021/22,Total,6742.0,3.93,Female,White,33-44
+Tuolumne,2022/23,Total,6901.0,2.36,Female,White,33-44
+Ventura,2019/20,Total,64954.0,,Female,Hispanic,21-32
+Ventura,2020/21,Total,70095.0,7.91,Female,Hispanic,21-32
+Ventura,2021/22,Total,73305.0,4.58,Female,Hispanic,21-32
+Ventura,2022/23,Total,79895.0,8.99,Female,Hispanic,21-32
+Yolo,2019/20,Total,18408.0,,Female,White,21-32
+Yolo,2020/21,Total,18144.0,-1.43,Female,White,21-32
+Yolo,2021/22,Total,18910.0,4.22,Female,White,21-32
+Yolo,2022/23,Total,19527.0,3.26,Female,White,21-32
+Yuba,2019/20,Total,9801.0,,Female,White,21-32
+Yuba,2020/21,Total,9401.0,-4.08,Female,White,21-32
+Yuba,2021/22,Total,9986.0,6.22,Female,White,21-32
+Yuba,2022/23,Total,10867.0,8.82,Female,White,21-32

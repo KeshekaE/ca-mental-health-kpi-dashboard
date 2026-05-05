@@ -1,0 +1,1628 @@
+county,fiscal_year,beneficiaries,race_ethnicity
+Alameda,2019/20,351.0,Native American
+Alameda,2020/21,385.0,Native American
+Alameda,2021/22,396.0,Native American
+Alameda,2022/23,349.0,Native American
+Alpine,2019/20,0.0,Native American
+Alpine,2020/21,0.0,Native American
+Alpine,2021/22,0.0,Native American
+Alpine,2022/23,0.0,Native American
+Amador,2019/20,0.0,Native American
+Amador,2020/21,18.0,Native American
+Amador,2021/22,37.0,Native American
+Amador,2022/23,31.0,Native American
+Butte,2019/20,596.0,Native American
+Butte,2020/21,551.0,Native American
+Butte,2021/22,553.0,Native American
+Butte,2022/23,511.0,Native American
+Calaveras,2019/20,50.0,Native American
+Calaveras,2020/21,49.0,Native American
+Calaveras,2021/22,46.0,Native American
+Calaveras,2022/23,50.0,Native American
+Colusa,2019/20,0.0,Native American
+Colusa,2020/21,0.0,Native American
+Colusa,2021/22,0.0,Native American
+Colusa,2022/23,0.0,Native American
+Contra Costa,2019/20,266.0,Native American
+Contra Costa,2020/21,246.0,Native American
+Contra Costa,2021/22,226.0,Native American
+Contra Costa,2022/23,228.0,Native American
+Del Norte,2019/20,313.0,Native American
+Del Norte,2020/21,391.0,Native American
+Del Norte,2021/22,400.0,Native American
+Del Norte,2022/23,391.0,Native American
+El Dorado,2019/20,59.0,Native American
+El Dorado,2020/21,90.0,Native American
+El Dorado,2021/22,102.0,Native American
+El Dorado,2022/23,99.0,Native American
+Fresno,2019/20,1163.0,Native American
+Fresno,2020/21,1147.0,Native American
+Fresno,2021/22,1131.0,Native American
+Fresno,2022/23,1020.0,Native American
+Glenn,2019/20,46.0,Native American
+Glenn,2020/21,39.0,Native American
+Glenn,2021/22,41.0,Native American
+Glenn,2022/23,37.0,Native American
+Humboldt,2019/20,1348.0,Native American
+Humboldt,2020/21,1597.0,Native American
+Humboldt,2021/22,1556.0,Native American
+Humboldt,2022/23,1615.0,Native American
+Imperial,2019/20,44.0,Native American
+Imperial,2020/21,70.0,Native American
+Imperial,2021/22,41.0,Native American
+Imperial,2022/23,32.0,Native American
+Inyo,2019/20,214.0,Native American
+Inyo,2020/21,232.0,Native American
+Inyo,2021/22,196.0,Native American
+Inyo,2022/23,268.0,Native American
+Kern,2019/20,321.0,Native American
+Kern,2020/21,486.0,Native American
+Kern,2021/22,418.0,Native American
+Kern,2022/23,450.0,Native American
+Kings,2019/20,52.0,Native American
+Kings,2020/21,24.0,Native American
+Kings,2021/22,42.0,Native American
+Kings,2022/23,30.0,Native American
+Lake,2019/20,227.0,Native American
+Lake,2020/21,277.0,Native American
+Lake,2021/22,268.0,Native American
+Lake,2022/23,346.0,Native American
+Lassen,2019/20,97.0,Native American
+Lassen,2020/21,127.0,Native American
+Lassen,2021/22,117.0,Native American
+Lassen,2022/23,120.0,Native American
+Los Angeles,2019/20,2536.0,Native American
+Los Angeles,2020/21,2208.0,Native American
+Los Angeles,2021/22,2387.0,Native American
+Los Angeles,2022/23,2645.0,Native American
+Madera,2019/20,157.0,Native American
+Madera,2020/21,150.0,Native American
+Madera,2021/22,104.0,Native American
+Madera,2022/23,64.0,Native American
+Marin,2019/20,17.0,Native American
+Marin,2020/21,14.0,Native American
+Marin,2021/22,33.0,Native American
+Marin,2022/23,12.0,Native American
+Mariposa,2019/20,28.0,Native American
+Mariposa,2020/21,14.0,Native American
+Mariposa,2021/22,0.0,Native American
+Mariposa,2022/23,12.0,Native American
+Mendocino,2019/20,765.0,Native American
+Mendocino,2020/21,749.0,Native American
+Mendocino,2021/22,819.0,Native American
+Mendocino,2022/23,991.0,Native American
+Merced,2019/20,50.0,Native American
+Merced,2020/21,60.0,Native American
+Merced,2021/22,60.0,Native American
+Merced,2022/23,97.0,Native American
+Modoc,2019/20,65.0,Native American
+Modoc,2020/21,58.0,Native American
+Modoc,2021/22,0.0,Native American
+Modoc,2022/23,27.0,Native American
+Mono,2019/20,0.0,Native American
+Mono,2020/21,0.0,Native American
+Mono,2021/22,0.0,Native American
+Mono,2022/23,0.0,Native American
+Monterey,2019/20,120.0,Native American
+Monterey,2020/21,133.0,Native American
+Monterey,2021/22,97.0,Native American
+Monterey,2022/23,97.0,Native American
+Napa,2019/20,16.0,Native American
+Napa,2020/21,0.0,Native American
+Napa,2021/22,0.0,Native American
+Napa,2022/23,0.0,Native American
+Nevada,2019/20,71.0,Native American
+Nevada,2020/21,76.0,Native American
+Nevada,2021/22,82.0,Native American
+Nevada,2022/23,58.0,Native American
+Orange,2019/20,616.0,Native American
+Orange,2020/21,602.0,Native American
+Orange,2021/22,592.0,Native American
+Orange,2022/23,643.0,Native American
+Placer,2019/20,258.0,Native American
+Placer,2020/21,243.0,Native American
+Placer,2021/22,236.0,Native American
+Placer,2022/23,254.0,Native American
+Plumas,2019/20,38.0,Native American
+Plumas,2020/21,12.0,Native American
+Plumas,2021/22,0.0,Native American
+Plumas,2022/23,13.0,Native American
+Riverside,2019/20,821.0,Native American
+Riverside,2020/21,847.0,Native American
+Riverside,2021/22,960.0,Native American
+Riverside,2022/23,1121.0,Native American
+Sacramento,2019/20,1493.0,Native American
+Sacramento,2020/21,1690.0,Native American
+Sacramento,2021/22,1495.0,Native American
+Sacramento,2022/23,1507.0,Native American
+San Benito,2019/20,0.0,Native American
+San Benito,2020/21,0.0,Native American
+San Benito,2021/22,0.0,Native American
+San Benito,2022/23,0.0,Native American
+San Bernardino,2019/20,773.0,Native American
+San Bernardino,2020/21,754.0,Native American
+San Bernardino,2021/22,731.0,Native American
+San Bernardino,2022/23,852.0,Native American
+San Diego,2019/20,2006.0,Native American
+San Diego,2020/21,1828.0,Native American
+San Diego,2021/22,1901.0,Native American
+San Diego,2022/23,1801.0,Native American
+San Francisco,2019/20,443.0,Native American
+San Francisco,2020/21,353.0,Native American
+San Francisco,2021/22,408.0,Native American
+San Francisco,2022/23,395.0,Native American
+San Joaquin,2019/20,446.0,Native American
+San Joaquin,2020/21,412.0,Native American
+San Joaquin,2021/22,401.0,Native American
+San Joaquin,2022/23,471.0,Native American
+San Luis Obispo,2019/20,148.0,Native American
+San Luis Obispo,2020/21,156.0,Native American
+San Luis Obispo,2021/22,112.0,Native American
+San Luis Obispo,2022/23,93.0,Native American
+San Mateo,2019/20,99.0,Native American
+San Mateo,2020/21,80.0,Native American
+San Mateo,2021/22,40.0,Native American
+San Mateo,2022/23,73.0,Native American
+Santa Barbara,2019/20,258.0,Native American
+Santa Barbara,2020/21,177.0,Native American
+Santa Barbara,2021/22,212.0,Native American
+Santa Barbara,2022/23,138.0,Native American
+Santa Clara,2019/20,541.0,Native American
+Santa Clara,2020/21,542.0,Native American
+Santa Clara,2021/22,463.0,Native American
+Santa Clara,2022/23,467.0,Native American
+Santa Cruz,2019/20,204.0,Native American
+Santa Cruz,2020/21,166.0,Native American
+Santa Cruz,2021/22,183.0,Native American
+Santa Cruz,2022/23,139.0,Native American
+Shasta,2019/20,784.0,Native American
+Shasta,2020/21,808.0,Native American
+Shasta,2021/22,739.0,Native American
+Shasta,2022/23,734.0,Native American
+Siskiyou,2019/20,264.0,Native American
+Siskiyou,2020/21,331.0,Native American
+Siskiyou,2021/22,284.0,Native American
+Siskiyou,2022/23,342.0,Native American
+Small-Rural Counties,2019/20,1614.0,Native American
+Small-Rural Counties,2020/21,1695.0,Native American
+Small-Rural Counties,2021/22,1568.0,Native American
+Small-Rural Counties,2022/23,1792.0,Native American
+Solano,2019/20,326.0,Native American
+Solano,2020/21,252.0,Native American
+Solano,2021/22,264.0,Native American
+Solano,2022/23,244.0,Native American
+Sonoma,2019/20,490.0,Native American
+Sonoma,2020/21,417.0,Native American
+Sonoma,2021/22,456.0,Native American
+Sonoma,2022/23,409.0,Native American
+Stanislaus,2019/20,293.0,Native American
+Stanislaus,2020/21,303.0,Native American
+Stanislaus,2021/22,234.0,Native American
+Stanislaus,2022/23,190.0,Native American
+Sutter,2019/20,57.0,Native American
+Sutter,2020/21,38.0,Native American
+Sutter,2021/22,66.0,Native American
+Sutter,2022/23,93.0,Native American
+Tehama,2019/20,116.0,Native American
+Tehama,2020/21,88.0,Native American
+Tehama,2021/22,86.0,Native American
+Tehama,2022/23,107.0,Native American
+Trinity,2019/20,15.0,Native American
+Trinity,2020/21,36.0,Native American
+Trinity,2021/22,19.0,Native American
+Trinity,2022/23,46.0,Native American
+Tulare,2019/20,441.0,Native American
+Tulare,2020/21,454.0,Native American
+Tulare,2021/22,447.0,Native American
+Tulare,2022/23,452.0,Native American
+Tuolumne,2019/20,56.0,Native American
+Tuolumne,2020/21,56.0,Native American
+Tuolumne,2021/22,40.0,Native American
+Tuolumne,2022/23,31.0,Native American
+Ventura,2019/20,213.0,Native American
+Ventura,2020/21,224.0,Native American
+Ventura,2021/22,175.0,Native American
+Ventura,2022/23,158.0,Native American
+Yolo,2019/20,126.0,Native American
+Yolo,2020/21,98.0,Native American
+Yolo,2021/22,61.0,Native American
+Yolo,2022/23,90.0,Native American
+Yuba,2019/20,120.0,Native American
+Yuba,2020/21,131.0,Native American
+Yuba,2021/22,111.0,Native American
+Yuba,2022/23,115.0,Native American
+Alameda,2019/20,12924.0,Asian/Pacific Islander
+Alameda,2020/21,12568.0,Asian/Pacific Islander
+Alameda,2021/22,12563.0,Asian/Pacific Islander
+Alameda,2022/23,12682.0,Asian/Pacific Islander
+Amador,2019/20,0.0,Asian/Pacific Islander
+Amador,2020/21,0.0,Asian/Pacific Islander
+Amador,2021/22,0.0,Asian/Pacific Islander
+Amador,2022/23,0.0,Asian/Pacific Islander
+Butte,2019/20,877.0,Asian/Pacific Islander
+Butte,2020/21,811.0,Asian/Pacific Islander
+Butte,2021/22,697.0,Asian/Pacific Islander
+Butte,2022/23,752.0,Asian/Pacific Islander
+Calaveras,2019/20,0.0,Asian/Pacific Islander
+Calaveras,2020/21,11.0,Asian/Pacific Islander
+Calaveras,2021/22,14.0,Asian/Pacific Islander
+Calaveras,2022/23,0.0,Asian/Pacific Islander
+Colusa,2019/20,0.0,Asian/Pacific Islander
+Colusa,2020/21,0.0,Asian/Pacific Islander
+Colusa,2021/22,0.0,Asian/Pacific Islander
+Colusa,2022/23,16.0,Asian/Pacific Islander
+Contra Costa,2019/20,3571.0,Asian/Pacific Islander
+Contra Costa,2020/21,3962.0,Asian/Pacific Islander
+Contra Costa,2021/22,4220.0,Asian/Pacific Islander
+Contra Costa,2022/23,4430.0,Asian/Pacific Islander
+Del Norte,2019/20,30.0,Asian/Pacific Islander
+Del Norte,2020/21,12.0,Asian/Pacific Islander
+Del Norte,2021/22,0.0,Asian/Pacific Islander
+Del Norte,2022/23,18.0,Asian/Pacific Islander
+El Dorado,2019/20,118.0,Asian/Pacific Islander
+El Dorado,2020/21,142.0,Asian/Pacific Islander
+El Dorado,2021/22,187.0,Asian/Pacific Islander
+El Dorado,2022/23,240.0,Asian/Pacific Islander
+Fresno,2019/20,6469.0,Asian/Pacific Islander
+Fresno,2020/21,6187.0,Asian/Pacific Islander
+Fresno,2021/22,4741.0,Asian/Pacific Islander
+Fresno,2022/23,6053.0,Asian/Pacific Islander
+Glenn,2019/20,40.0,Asian/Pacific Islander
+Glenn,2020/21,43.0,Asian/Pacific Islander
+Glenn,2021/22,28.0,Asian/Pacific Islander
+Glenn,2022/23,0.0,Asian/Pacific Islander
+Humboldt,2019/20,257.0,Asian/Pacific Islander
+Humboldt,2020/21,267.0,Asian/Pacific Islander
+Humboldt,2021/22,361.0,Asian/Pacific Islander
+Humboldt,2022/23,402.0,Asian/Pacific Islander
+Imperial,2019/20,67.0,Asian/Pacific Islander
+Imperial,2020/21,85.0,Asian/Pacific Islander
+Imperial,2021/22,69.0,Asian/Pacific Islander
+Imperial,2022/23,53.0,Asian/Pacific Islander
+Inyo,2019/20,0.0,Asian/Pacific Islander
+Inyo,2020/21,0.0,Asian/Pacific Islander
+Inyo,2021/22,0.0,Asian/Pacific Islander
+Inyo,2022/23,0.0,Asian/Pacific Islander
+Kern,2019/20,2047.0,Asian/Pacific Islander
+Kern,2020/21,2208.0,Asian/Pacific Islander
+Kern,2021/22,2703.0,Asian/Pacific Islander
+Kern,2022/23,2965.0,Asian/Pacific Islander
+Kings,2019/20,217.0,Asian/Pacific Islander
+Kings,2020/21,231.0,Asian/Pacific Islander
+Kings,2021/22,212.0,Asian/Pacific Islander
+Kings,2022/23,219.0,Asian/Pacific Islander
+Lake,2019/20,38.0,Asian/Pacific Islander
+Lake,2020/21,44.0,Asian/Pacific Islander
+Lake,2021/22,50.0,Asian/Pacific Islander
+Lake,2022/23,44.0,Asian/Pacific Islander
+Lassen,2019/20,0.0,Asian/Pacific Islander
+Lassen,2020/21,0.0,Asian/Pacific Islander
+Lassen,2021/22,0.0,Asian/Pacific Islander
+Lassen,2022/23,0.0,Asian/Pacific Islander
+Los Angeles,2019/20,59393.0,Asian/Pacific Islander
+Los Angeles,2020/21,63547.0,Asian/Pacific Islander
+Los Angeles,2021/22,63645.0,Asian/Pacific Islander
+Los Angeles,2022/23,70888.0,Asian/Pacific Islander
+Madera,2019/20,131.0,Asian/Pacific Islander
+Madera,2020/21,476.0,Asian/Pacific Islander
+Madera,2021/22,267.0,Asian/Pacific Islander
+Madera,2022/23,322.0,Asian/Pacific Islander
+Marin,2019/20,627.0,Asian/Pacific Islander
+Marin,2020/21,656.0,Asian/Pacific Islander
+Marin,2021/22,865.0,Asian/Pacific Islander
+Marin,2022/23,763.0,Asian/Pacific Islander
+Mariposa,2019/20,0.0,Asian/Pacific Islander
+Mariposa,2020/21,0.0,Asian/Pacific Islander
+Mariposa,2021/22,0.0,Asian/Pacific Islander
+Mariposa,2022/23,0.0,Asian/Pacific Islander
+Mendocino,2019/20,155.0,Asian/Pacific Islander
+Mendocino,2020/21,142.0,Asian/Pacific Islander
+Mendocino,2021/22,163.0,Asian/Pacific Islander
+Mendocino,2022/23,131.0,Asian/Pacific Islander
+Merced,2019/20,1386.0,Asian/Pacific Islander
+Merced,2020/21,1269.0,Asian/Pacific Islander
+Merced,2021/22,1184.0,Asian/Pacific Islander
+Merced,2022/23,1533.0,Asian/Pacific Islander
+Modoc,2020/21,0.0,Asian/Pacific Islander
+Modoc,2021/22,0.0,Asian/Pacific Islander
+Modoc,2022/23,0.0,Asian/Pacific Islander
+Mono,2019/20,0.0,Asian/Pacific Islander
+Mono,2020/21,0.0,Asian/Pacific Islander
+Mono,2021/22,0.0,Asian/Pacific Islander
+Mono,2022/23,0.0,Asian/Pacific Islander
+Monterey,2019/20,1069.0,Asian/Pacific Islander
+Monterey,2020/21,1072.0,Asian/Pacific Islander
+Monterey,2021/22,1094.0,Asian/Pacific Islander
+Monterey,2022/23,1196.0,Asian/Pacific Islander
+Napa,2019/20,294.0,Asian/Pacific Islander
+Napa,2020/21,327.0,Asian/Pacific Islander
+Napa,2021/22,287.0,Asian/Pacific Islander
+Napa,2022/23,324.0,Asian/Pacific Islander
+Nevada,2019/20,19.0,Asian/Pacific Islander
+Nevada,2020/21,48.0,Asian/Pacific Islander
+Nevada,2021/22,39.0,Asian/Pacific Islander
+Nevada,2022/23,89.0,Asian/Pacific Islander
+Orange,2019/20,34072.0,Asian/Pacific Islander
+Orange,2020/21,25548.0,Asian/Pacific Islander
+Orange,2021/22,28262.0,Asian/Pacific Islander
+Orange,2022/23,35632.0,Asian/Pacific Islander
+Placer,2019/20,508.0,Asian/Pacific Islander
+Placer,2020/21,599.0,Asian/Pacific Islander
+Placer,2021/22,545.0,Asian/Pacific Islander
+Placer,2022/23,634.0,Asian/Pacific Islander
+Plumas,2019/20,0.0,Asian/Pacific Islander
+Plumas,2020/21,0.0,Asian/Pacific Islander
+Plumas,2021/22,0.0,Asian/Pacific Islander
+Plumas,2022/23,0.0,Asian/Pacific Islander
+Riverside,2019/20,6158.0,Asian/Pacific Islander
+Riverside,2020/21,6490.0,Asian/Pacific Islander
+Riverside,2021/22,7366.0,Asian/Pacific Islander
+Riverside,2022/23,9045.0,Asian/Pacific Islander
+Sacramento,2019/20,12339.0,Asian/Pacific Islander
+Sacramento,2020/21,11204.0,Asian/Pacific Islander
+Sacramento,2021/22,10358.0,Asian/Pacific Islander
+Sacramento,2022/23,12054.0,Asian/Pacific Islander
+San Benito,2019/20,12.0,Asian/Pacific Islander
+San Benito,2020/21,0.0,Asian/Pacific Islander
+San Benito,2021/22,25.0,Asian/Pacific Islander
+San Benito,2022/23,15.0,Asian/Pacific Islander
+San Bernardino,2019/20,6178.0,Asian/Pacific Islander
+San Bernardino,2020/21,6596.0,Asian/Pacific Islander
+San Bernardino,2021/22,7695.0,Asian/Pacific Islander
+San Bernardino,2022/23,8768.0,Asian/Pacific Islander
+San Diego,2019/20,15013.0,Asian/Pacific Islander
+San Diego,2020/21,14318.0,Asian/Pacific Islander
+San Diego,2021/22,14948.0,Asian/Pacific Islander
+San Diego,2022/23,18173.0,Asian/Pacific Islander
+San Francisco,2019/20,11982.0,Asian/Pacific Islander
+San Francisco,2020/21,12001.0,Asian/Pacific Islander
+San Francisco,2021/22,12695.0,Asian/Pacific Islander
+San Francisco,2022/23,12813.0,Asian/Pacific Islander
+San Joaquin,2019/20,13109.0,Asian/Pacific Islander
+San Joaquin,2020/21,13010.0,Asian/Pacific Islander
+San Joaquin,2021/22,12535.0,Asian/Pacific Islander
+San Joaquin,2022/23,14372.0,Asian/Pacific Islander
+San Luis Obispo,2019/20,250.0,Asian/Pacific Islander
+San Luis Obispo,2020/21,316.0,Asian/Pacific Islander
+San Luis Obispo,2021/22,249.0,Asian/Pacific Islander
+San Luis Obispo,2022/23,335.0,Asian/Pacific Islander
+San Mateo,2019/20,5835.0,Asian/Pacific Islander
+San Mateo,2020/21,5834.0,Asian/Pacific Islander
+San Mateo,2021/22,5607.0,Asian/Pacific Islander
+San Mateo,2022/23,6401.0,Asian/Pacific Islander
+Santa Barbara,2019/20,544.0,Asian/Pacific Islander
+Santa Barbara,2020/21,497.0,Asian/Pacific Islander
+Santa Barbara,2021/22,662.0,Asian/Pacific Islander
+Santa Barbara,2022/23,685.0,Asian/Pacific Islander
+Santa Clara,2019/20,12944.0,Asian/Pacific Islander
+Santa Clara,2020/21,15265.0,Asian/Pacific Islander
+Santa Clara,2021/22,16514.0,Asian/Pacific Islander
+Santa Clara,2022/23,17232.0,Asian/Pacific Islander
+Santa Cruz,2019/20,392.0,Asian/Pacific Islander
+Santa Cruz,2020/21,393.0,Asian/Pacific Islander
+Santa Cruz,2021/22,384.0,Asian/Pacific Islander
+Santa Cruz,2022/23,345.0,Asian/Pacific Islander
+Shasta,2019/20,572.0,Asian/Pacific Islander
+Shasta,2020/21,498.0,Asian/Pacific Islander
+Shasta,2021/22,551.0,Asian/Pacific Islander
+Shasta,2022/23,550.0,Asian/Pacific Islander
+Sierra,2019/20,0.0,Asian/Pacific Islander
+Sierra,2021/22,0.0,Asian/Pacific Islander
+Siskiyou,2019/20,50.0,Asian/Pacific Islander
+Siskiyou,2020/21,50.0,Asian/Pacific Islander
+Siskiyou,2021/22,13.0,Asian/Pacific Islander
+Siskiyou,2022/23,43.0,Asian/Pacific Islander
+Small-Rural Counties,2019/20,399.0,Asian/Pacific Islander
+Small-Rural Counties,2020/21,324.0,Asian/Pacific Islander
+Small-Rural Counties,2021/22,299.0,Asian/Pacific Islander
+Small-Rural Counties,2022/23,360.0,Asian/Pacific Islander
+Solano,2019/20,2672.0,Asian/Pacific Islander
+Solano,2020/21,2803.0,Asian/Pacific Islander
+Solano,2021/22,2792.0,Asian/Pacific Islander
+Solano,2022/23,3020.0,Asian/Pacific Islander
+Sonoma,2019/20,760.0,Asian/Pacific Islander
+Sonoma,2020/21,643.0,Asian/Pacific Islander
+Sonoma,2021/22,674.0,Asian/Pacific Islander
+Sonoma,2022/23,700.0,Asian/Pacific Islander
+Stanislaus,2019/20,2174.0,Asian/Pacific Islander
+Stanislaus,2020/21,2291.0,Asian/Pacific Islander
+Stanislaus,2021/22,2214.0,Asian/Pacific Islander
+Stanislaus,2022/23,2622.0,Asian/Pacific Islander
+Sutter,2019/20,975.0,Asian/Pacific Islander
+Sutter,2020/21,1072.0,Asian/Pacific Islander
+Sutter,2021/22,1058.0,Asian/Pacific Islander
+Sutter,2022/23,1092.0,Asian/Pacific Islander
+Tehama,2019/20,38.0,Asian/Pacific Islander
+Tehama,2020/21,31.0,Asian/Pacific Islander
+Tehama,2021/22,19.0,Asian/Pacific Islander
+Tehama,2022/23,39.0,Asian/Pacific Islander
+Trinity,2019/20,0.0,Asian/Pacific Islander
+Trinity,2020/21,0.0,Asian/Pacific Islander
+Trinity,2021/22,0.0,Asian/Pacific Islander
+Trinity,2022/23,0.0,Asian/Pacific Islander
+Tulare,2019/20,1150.0,Asian/Pacific Islander
+Tulare,2020/21,918.0,Asian/Pacific Islander
+Tulare,2021/22,900.0,Asian/Pacific Islander
+Tulare,2022/23,1019.0,Asian/Pacific Islander
+Tuolumne,2019/20,11.0,Asian/Pacific Islander
+Tuolumne,2020/21,11.0,Asian/Pacific Islander
+Tuolumne,2021/22,15.0,Asian/Pacific Islander
+Tuolumne,2022/23,11.0,Asian/Pacific Islander
+Ventura,2019/20,1427.0,Asian/Pacific Islander
+Ventura,2020/21,1506.0,Asian/Pacific Islander
+Ventura,2021/22,1511.0,Asian/Pacific Islander
+Ventura,2022/23,1745.0,Asian/Pacific Islander
+Yolo,2019/20,725.0,Asian/Pacific Islander
+Yolo,2020/21,719.0,Asian/Pacific Islander
+Yolo,2021/22,746.0,Asian/Pacific Islander
+Yolo,2022/23,818.0,Asian/Pacific Islander
+Yuba,2019/20,457.0,Asian/Pacific Islander
+Yuba,2020/21,390.0,Asian/Pacific Islander
+Yuba,2021/22,335.0,Asian/Pacific Islander
+Yuba,2022/23,470.0,Asian/Pacific Islander
+Alameda,2019/20,25204.0,Black
+Alameda,2020/21,24229.0,Black
+Alameda,2021/22,23202.0,Black
+Alameda,2022/23,23970.0,Black
+Alpine,2019/20,0.0,Black
+Alpine,2020/21,0.0,Black
+Alpine,2021/22,0.0,Black
+Amador,2019/20,0.0,Black
+Amador,2020/21,0.0,Black
+Amador,2021/22,0.0,Black
+Amador,2022/23,0.0,Black
+Butte,2019/20,854.0,Black
+Butte,2020/21,852.0,Black
+Butte,2021/22,802.0,Black
+Butte,2022/23,882.0,Black
+Calaveras,2019/20,0.0,Black
+Calaveras,2020/21,37.0,Black
+Calaveras,2021/22,0.0,Black
+Calaveras,2022/23,0.0,Black
+Colusa,2019/20,0.0,Black
+Colusa,2020/21,0.0,Black
+Colusa,2021/22,0.0,Black
+Colusa,2022/23,0.0,Black
+Contra Costa,2019/20,10022.0,Black
+Contra Costa,2020/21,10831.0,Black
+Contra Costa,2021/22,11839.0,Black
+Contra Costa,2022/23,12036.0,Black
+Del Norte,2019/20,0.0,Black
+Del Norte,2020/21,0.0,Black
+Del Norte,2021/22,0.0,Black
+Del Norte,2022/23,0.0,Black
+El Dorado,2019/20,73.0,Black
+El Dorado,2020/21,66.0,Black
+El Dorado,2021/22,70.0,Black
+El Dorado,2022/23,91.0,Black
+Fresno,2019/20,7626.0,Black
+Fresno,2020/21,7198.0,Black
+Fresno,2021/22,6957.0,Black
+Fresno,2022/23,7342.0,Black
+Glenn,2019/20,0.0,Black
+Glenn,2020/21,0.0,Black
+Glenn,2021/22,0.0,Black
+Glenn,2022/23,0.0,Black
+Humboldt,2019/20,411.0,Black
+Humboldt,2020/21,496.0,Black
+Humboldt,2021/22,490.0,Black
+Humboldt,2022/23,539.0,Black
+Imperial,2019/20,426.0,Black
+Imperial,2020/21,439.0,Black
+Imperial,2021/22,368.0,Black
+Imperial,2022/23,326.0,Black
+Inyo,2019/20,0.0,Black
+Inyo,2020/21,0.0,Black
+Inyo,2021/22,0.0,Black
+Inyo,2022/23,0.0,Black
+Kern,2019/20,9018.0,Black
+Kern,2020/21,9175.0,Black
+Kern,2021/22,9639.0,Black
+Kern,2022/23,10664.0,Black
+Kings,2019/20,935.0,Black
+Kings,2020/21,845.0,Black
+Kings,2021/22,828.0,Black
+Kings,2022/23,845.0,Black
+Lake,2019/20,265.0,Black
+Lake,2020/21,221.0,Black
+Lake,2021/22,314.0,Black
+Lake,2022/23,340.0,Black
+Lassen,2019/20,24.0,Black
+Lassen,2020/21,53.0,Black
+Lassen,2021/22,0.0,Black
+Lassen,2022/23,12.0,Black
+Los Angeles,2019/20,159737.0,Black
+Los Angeles,2020/21,159160.0,Black
+Los Angeles,2021/22,162418.0,Black
+Los Angeles,2022/23,179669.0,Black
+Madera,2019/20,521.0,Black
+Madera,2020/21,717.0,Black
+Madera,2021/22,587.0,Black
+Madera,2022/23,612.0,Black
+Marin,2019/20,1076.0,Black
+Marin,2020/21,1199.0,Black
+Marin,2021/22,1416.0,Black
+Marin,2022/23,1291.0,Black
+Mariposa,2019/20,0.0,Black
+Mariposa,2020/21,0.0,Black
+Mariposa,2021/22,0.0,Black
+Mariposa,2022/23,0.0,Black
+Mendocino,2019/20,179.0,Black
+Mendocino,2020/21,118.0,Black
+Mendocino,2021/22,129.0,Black
+Mendocino,2022/23,164.0,Black
+Merced,2019/20,1867.0,Black
+Merced,2020/21,1813.0,Black
+Merced,2021/22,1734.0,Black
+Merced,2022/23,1882.0,Black
+Modoc,2019/20,0.0,Black
+Modoc,2020/21,0.0,Black
+Modoc,2021/22,0.0,Black
+Modoc,2022/23,0.0,Black
+Mono,2021/22,0.0,Black
+Mono,2022/23,0.0,Black
+Monterey,2019/20,1417.0,Black
+Monterey,2020/21,1332.0,Black
+Monterey,2021/22,1258.0,Black
+Monterey,2022/23,1313.0,Black
+Napa,2019/20,159.0,Black
+Napa,2020/21,162.0,Black
+Napa,2021/22,206.0,Black
+Napa,2022/23,255.0,Black
+Nevada,2019/20,28.0,Black
+Nevada,2020/21,46.0,Black
+Nevada,2021/22,68.0,Black
+Nevada,2022/23,71.0,Black
+Orange,2019/20,5503.0,Black
+Orange,2020/21,5224.0,Black
+Orange,2021/22,5471.0,Black
+Orange,2022/23,6023.0,Black
+Placer,2019/20,385.0,Black
+Placer,2020/21,447.0,Black
+Placer,2021/22,444.0,Black
+Placer,2022/23,524.0,Black
+Plumas,2019/20,27.0,Black
+Plumas,2020/21,0.0,Black
+Plumas,2021/22,0.0,Black
+Plumas,2022/23,0.0,Black
+Riverside,2019/20,21906.0,Black
+Riverside,2020/21,22381.0,Black
+Riverside,2021/22,24604.0,Black
+Riverside,2022/23,29020.0,Black
+Sacramento,2019/20,25610.0,Black
+Sacramento,2020/21,25785.0,Black
+Sacramento,2021/22,24083.0,Black
+Sacramento,2022/23,25449.0,Black
+San Benito,2019/20,0.0,Black
+San Benito,2020/21,0.0,Black
+San Benito,2021/22,0.0,Black
+San Benito,2022/23,0.0,Black
+San Bernardino,2019/20,31453.0,Black
+San Bernardino,2020/21,31765.0,Black
+San Bernardino,2021/22,34144.0,Black
+San Bernardino,2022/23,38739.0,Black
+San Diego,2019/20,23246.0,Black
+San Diego,2020/21,21118.0,Black
+San Diego,2021/22,21575.0,Black
+San Diego,2022/23,23697.0,Black
+San Francisco,2019/20,9602.0,Black
+San Francisco,2020/21,8798.0,Black
+San Francisco,2021/22,8584.0,Black
+San Francisco,2022/23,8971.0,Black
+San Joaquin,2019/20,11111.0,Black
+San Joaquin,2020/21,11559.0,Black
+San Joaquin,2021/22,10756.0,Black
+San Joaquin,2022/23,11619.0,Black
+San Luis Obispo,2019/20,294.0,Black
+San Luis Obispo,2020/21,389.0,Black
+San Luis Obispo,2021/22,333.0,Black
+San Luis Obispo,2022/23,256.0,Black
+San Mateo,2019/20,2564.0,Black
+San Mateo,2020/21,2369.0,Black
+San Mateo,2021/22,2384.0,Black
+San Mateo,2022/23,2423.0,Black
+Santa Barbara,2019/20,930.0,Black
+Santa Barbara,2020/21,925.0,Black
+Santa Barbara,2021/22,1028.0,Black
+Santa Barbara,2022/23,1021.0,Black
+Santa Clara,2019/20,4501.0,Black
+Santa Clara,2020/21,4686.0,Black
+Santa Clara,2021/22,4984.0,Black
+Santa Clara,2022/23,5013.0,Black
+Santa Cruz,2019/20,455.0,Black
+Santa Cruz,2020/21,354.0,Black
+Santa Cruz,2021/22,374.0,Black
+Santa Cruz,2022/23,367.0,Black
+Shasta,2019/20,464.0,Black
+Shasta,2020/21,527.0,Black
+Shasta,2021/22,498.0,Black
+Shasta,2022/23,524.0,Black
+Siskiyou,2019/20,147.0,Black
+Siskiyou,2020/21,140.0,Black
+Siskiyou,2021/22,125.0,Black
+Siskiyou,2022/23,132.0,Black
+Small-Rural Counties,2019/20,491.0,Black
+Small-Rural Counties,2020/21,493.0,Black
+Small-Rural Counties,2021/22,462.0,Black
+Small-Rural Counties,2022/23,396.0,Black
+Solano,2019/20,6498.0,Black
+Solano,2020/21,6780.0,Black
+Solano,2021/22,7075.0,Black
+Solano,2022/23,7482.0,Black
+Sonoma,2019/20,738.0,Black
+Sonoma,2020/21,737.0,Black
+Sonoma,2021/22,785.0,Black
+Sonoma,2022/23,854.0,Black
+Stanislaus,2019/20,2705.0,Black
+Stanislaus,2020/21,2444.0,Black
+Stanislaus,2021/22,2498.0,Black
+Stanislaus,2022/23,2721.0,Black
+Sutter,2019/20,277.0,Black
+Sutter,2020/21,262.0,Black
+Sutter,2021/22,328.0,Black
+Sutter,2022/23,341.0,Black
+Tehama,2019/20,51.0,Black
+Tehama,2020/21,29.0,Black
+Tehama,2021/22,15.0,Black
+Tehama,2022/23,16.0,Black
+Trinity,2019/20,0.0,Black
+Trinity,2020/21,0.0,Black
+Trinity,2021/22,0.0,Black
+Tulare,2019/20,1041.0,Black
+Tulare,2020/21,1035.0,Black
+Tulare,2021/22,1010.0,Black
+Tulare,2022/23,1107.0,Black
+Tuolumne,2019/20,0.0,Black
+Tuolumne,2020/21,0.0,Black
+Tuolumne,2021/22,0.0,Black
+Tuolumne,2022/23,0.0,Black
+Ventura,2019/20,1306.0,Black
+Ventura,2020/21,1246.0,Black
+Ventura,2021/22,1232.0,Black
+Ventura,2022/23,1298.0,Black
+Yolo,2019/20,854.0,Black
+Yolo,2020/21,882.0,Black
+Yolo,2021/22,947.0,Black
+Yolo,2022/23,914.0,Black
+Yuba,2019/20,333.0,Black
+Yuba,2020/21,356.0,Black
+Yuba,2021/22,330.0,Black
+Yuba,2022/23,370.0,Black
+Alameda,2019/20,13576.0,Hispanic
+Alameda,2020/21,13952.0,Hispanic
+Alameda,2021/22,14318.0,Hispanic
+Alameda,2022/23,19337.0,Hispanic
+Alpine,2020/21,0.0,Hispanic
+Alpine,2021/22,0.0,Hispanic
+Alpine,2022/23,0.0,Hispanic
+Amador,2019/20,200.0,Hispanic
+Amador,2020/21,194.0,Hispanic
+Amador,2021/22,258.0,Hispanic
+Amador,2022/23,314.0,Hispanic
+Butte,2019/20,3316.0,Hispanic
+Butte,2020/21,3920.0,Hispanic
+Butte,2021/22,4116.0,Hispanic
+Butte,2022/23,4551.0,Hispanic
+Calaveras,2019/20,373.0,Hispanic
+Calaveras,2020/21,412.0,Hispanic
+Calaveras,2021/22,453.0,Hispanic
+Calaveras,2022/23,485.0,Hispanic
+Colusa,2019/20,823.0,Hispanic
+Colusa,2020/21,973.0,Hispanic
+Colusa,2021/22,1057.0,Hispanic
+Colusa,2022/23,1847.0,Hispanic
+Contra Costa,2019/20,11011.0,Hispanic
+Contra Costa,2020/21,12002.0,Hispanic
+Contra Costa,2021/22,14798.0,Hispanic
+Contra Costa,2022/23,18971.0,Hispanic
+Del Norte,2019/20,320.0,Hispanic
+Del Norte,2020/21,341.0,Hispanic
+Del Norte,2021/22,406.0,Hispanic
+Del Norte,2022/23,445.0,Hispanic
+El Dorado,2019/20,1053.0,Hispanic
+El Dorado,2020/21,1296.0,Hispanic
+El Dorado,2021/22,1318.0,Hispanic
+El Dorado,2022/23,1466.0,Hispanic
+Fresno,2019/20,39586.0,Hispanic
+Fresno,2020/21,41583.0,Hispanic
+Fresno,2021/22,38216.0,Hispanic
+Fresno,2022/23,46381.0,Hispanic
+Glenn,2019/20,787.0,Hispanic
+Glenn,2020/21,907.0,Hispanic
+Glenn,2021/22,971.0,Hispanic
+Glenn,2022/23,1103.0,Hispanic
+Humboldt,2019/20,2038.0,Hispanic
+Humboldt,2020/21,2487.0,Hispanic
+Humboldt,2021/22,2651.0,Hispanic
+Humboldt,2022/23,2896.0,Hispanic
+Imperial,2019/20,17509.0,Hispanic
+Imperial,2020/21,18114.0,Hispanic
+Imperial,2021/22,19510.0,Hispanic
+Imperial,2022/23,21291.0,Hispanic
+Inyo,2019/20,172.0,Hispanic
+Inyo,2020/21,296.0,Hispanic
+Inyo,2021/22,248.0,Hispanic
+Inyo,2022/23,276.0,Hispanic
+Kern,2019/20,43128.0,Hispanic
+Kern,2020/21,48414.0,Hispanic
+Kern,2021/22,56863.0,Hispanic
+Kern,2022/23,65264.0,Hispanic
+Kings,2019/20,8131.0,Hispanic
+Kings,2020/21,8008.0,Hispanic
+Kings,2021/22,8087.0,Hispanic
+Kings,2022/23,8605.0,Hispanic
+Lake,2019/20,1123.0,Hispanic
+Lake,2020/21,1232.0,Hispanic
+Lake,2021/22,1535.0,Hispanic
+Lake,2022/23,1959.0,Hispanic
+Lassen,2019/20,222.0,Hispanic
+Lassen,2020/21,251.0,Hispanic
+Lassen,2021/22,249.0,Hispanic
+Lassen,2022/23,251.0,Hispanic
+Los Angeles,2019/20,340057.0,Hispanic
+Los Angeles,2020/21,355763.0,Hispanic
+Los Angeles,2021/22,396509.0,Hispanic
+Los Angeles,2022/23,468262.0,Hispanic
+Madera,2019/20,7591.0,Hispanic
+Madera,2020/21,16407.0,Hispanic
+Madera,2021/22,12072.0,Hispanic
+Madera,2022/23,14758.0,Hispanic
+Marin,2019/20,3639.0,Hispanic
+Marin,2020/21,4645.0,Hispanic
+Marin,2021/22,6295.0,Hispanic
+Marin,2022/23,6236.0,Hispanic
+Mariposa,2019/20,198.0,Hispanic
+Mariposa,2020/21,230.0,Hispanic
+Mariposa,2021/22,240.0,Hispanic
+Mariposa,2022/23,246.0,Hispanic
+Mendocino,2019/20,2608.0,Hispanic
+Mendocino,2020/21,2584.0,Hispanic
+Mendocino,2021/22,2694.0,Hispanic
+Mendocino,2022/23,3226.0,Hispanic
+Merced,2019/20,14198.0,Hispanic
+Merced,2020/21,15854.0,Hispanic
+Merced,2021/22,16837.0,Hispanic
+Merced,2022/23,19776.0,Hispanic
+Modoc,2019/20,92.0,Hispanic
+Modoc,2020/21,76.0,Hispanic
+Modoc,2021/22,97.0,Hispanic
+Modoc,2022/23,74.0,Hispanic
+Mono,2019/20,157.0,Hispanic
+Mono,2020/21,157.0,Hispanic
+Mono,2021/22,224.0,Hispanic
+Mono,2022/23,244.0,Hispanic
+Monterey,2019/20,23362.0,Hispanic
+Monterey,2020/21,23891.0,Hispanic
+Monterey,2021/22,24028.0,Hispanic
+Monterey,2022/23,27025.0,Hispanic
+Napa,2019/20,3041.0,Hispanic
+Napa,2020/21,3188.0,Hispanic
+Napa,2021/22,3753.0,Hispanic
+Napa,2022/23,4093.0,Hispanic
+Nevada,2019/20,716.0,Hispanic
+Nevada,2020/21,966.0,Hispanic
+Nevada,2021/22,1006.0,Hispanic
+Nevada,2022/23,1323.0,Hispanic
+Orange,2019/20,60749.0,Hispanic
+Orange,2020/21,57558.0,Hispanic
+Orange,2021/22,65810.0,Hispanic
+Orange,2022/23,85983.0,Hispanic
+Placer,2019/20,1628.0,Hispanic
+Placer,2020/21,1908.0,Hispanic
+Placer,2021/22,2573.0,Hispanic
+Placer,2022/23,2687.0,Hispanic
+Plumas,2019/20,141.0,Hispanic
+Plumas,2020/21,142.0,Hispanic
+Plumas,2021/22,129.0,Hispanic
+Plumas,2022/23,162.0,Hispanic
+Riverside,2019/20,90238.0,Hispanic
+Riverside,2020/21,98489.0,Hispanic
+Riverside,2021/22,114292.0,Hispanic
+Riverside,2022/23,139499.0,Hispanic
+Sacramento,2019/20,19358.0,Hispanic
+Sacramento,2020/21,19601.0,Hispanic
+Sacramento,2021/22,19888.0,Hispanic
+Sacramento,2022/23,28038.0,Hispanic
+San Benito,2019/20,1854.0,Hispanic
+San Benito,2020/21,2093.0,Hispanic
+San Benito,2021/22,2160.0,Hispanic
+San Benito,2022/23,2347.0,Hispanic
+San Bernardino,2019/20,97309.0,Hispanic
+San Bernardino,2020/21,103429.0,Hispanic
+San Bernardino,2021/22,116506.0,Hispanic
+San Bernardino,2022/23,139604.0,Hispanic
+San Diego,2019/20,67069.0,Hispanic
+San Diego,2020/21,63103.0,Hispanic
+San Diego,2021/22,68069.0,Hispanic
+San Diego,2022/23,108072.0,Hispanic
+San Francisco,2019/20,7685.0,Hispanic
+San Francisco,2020/21,7921.0,Hispanic
+San Francisco,2021/22,8083.0,Hispanic
+San Francisco,2022/23,10365.0,Hispanic
+San Joaquin,2019/20,37728.0,Hispanic
+San Joaquin,2020/21,40738.0,Hispanic
+San Joaquin,2021/22,40645.0,Hispanic
+San Joaquin,2022/23,49260.0,Hispanic
+San Luis Obispo,2019/20,3299.0,Hispanic
+San Luis Obispo,2020/21,4008.0,Hispanic
+San Luis Obispo,2021/22,3640.0,Hispanic
+San Luis Obispo,2022/23,5595.0,Hispanic
+San Mateo,2019/20,12422.0,Hispanic
+San Mateo,2020/21,11098.0,Hispanic
+San Mateo,2021/22,11933.0,Hispanic
+San Mateo,2022/23,15366.0,Hispanic
+Santa Barbara,2019/20,7405.0,Hispanic
+Santa Barbara,2020/21,7894.0,Hispanic
+Santa Barbara,2021/22,9287.0,Hispanic
+Santa Barbara,2022/23,19108.0,Hispanic
+Santa Clara,2019/20,21474.0,Hispanic
+Santa Clara,2020/21,23603.0,Hispanic
+Santa Clara,2021/22,27324.0,Hispanic
+Santa Clara,2022/23,33637.0,Hispanic
+Santa Cruz,2019/20,9149.0,Hispanic
+Santa Cruz,2020/21,8490.0,Hispanic
+Santa Cruz,2021/22,8716.0,Hispanic
+Santa Cruz,2022/23,10089.0,Hispanic
+Shasta,2019/20,1946.0,Hispanic
+Shasta,2020/21,2168.0,Hispanic
+Shasta,2021/22,2335.0,Hispanic
+Shasta,2022/23,2767.0,Hispanic
+Sierra,2019/20,0.0,Hispanic
+Sierra,2020/21,0.0,Hispanic
+Sierra,2021/22,0.0,Hispanic
+Sierra,2022/23,0.0,Hispanic
+Siskiyou,2019/20,494.0,Hispanic
+Siskiyou,2020/21,582.0,Hispanic
+Siskiyou,2021/22,577.0,Hispanic
+Siskiyou,2022/23,659.0,Hispanic
+Small-Rural Counties,2019/20,4416.0,Hispanic
+Small-Rural Counties,2020/21,5011.0,Hispanic
+Small-Rural Counties,2021/22,5405.0,Hispanic
+Small-Rural Counties,2022/23,6642.0,Hispanic
+Solano,2019/20,6592.0,Hispanic
+Solano,2020/21,7137.0,Hispanic
+Solano,2021/22,7610.0,Hispanic
+Solano,2022/23,10545.0,Hispanic
+Sonoma,2019/20,6854.0,Hispanic
+Sonoma,2020/21,6623.0,Hispanic
+Sonoma,2021/22,7332.0,Hispanic
+Sonoma,2022/23,10065.0,Hispanic
+Stanislaus,2019/20,22571.0,Hispanic
+Stanislaus,2020/21,22585.0,Hispanic
+Stanislaus,2021/22,22610.0,Hispanic
+Stanislaus,2022/23,27741.0,Hispanic
+Sutter,2019/20,1980.0,Hispanic
+Sutter,2020/21,2279.0,Hispanic
+Sutter,2021/22,2556.0,Hispanic
+Sutter,2022/23,2750.0,Hispanic
+Tehama,2019/20,1105.0,Hispanic
+Tehama,2020/21,1194.0,Hispanic
+Tehama,2021/22,1114.0,Hispanic
+Tehama,2022/23,1551.0,Hispanic
+Trinity,2019/20,12.0,Hispanic
+Trinity,2020/21,11.0,Hispanic
+Trinity,2021/22,13.0,Hispanic
+Trinity,2022/23,12.0,Hispanic
+Tulare,2019/20,26153.0,Hispanic
+Tulare,2020/21,25361.0,Hispanic
+Tulare,2021/22,27563.0,Hispanic
+Tulare,2022/23,33116.0,Hispanic
+Tuolumne,2019/20,361.0,Hispanic
+Tuolumne,2020/21,459.0,Hispanic
+Tuolumne,2021/22,498.0,Hispanic
+Tuolumne,2022/23,604.0,Hispanic
+Ventura,2019/20,21850.0,Hispanic
+Ventura,2020/21,22169.0,Hispanic
+Ventura,2021/22,23387.0,Hispanic
+Ventura,2022/23,30763.0,Hispanic
+Yolo,2019/20,4291.0,Hispanic
+Yolo,2020/21,3963.0,Hispanic
+Yolo,2021/22,5074.0,Hispanic
+Yolo,2022/23,5856.0,Hispanic
+Yuba,2019/20,1393.0,Hispanic
+Yuba,2020/21,1479.0,Hispanic
+Yuba,2021/22,1741.0,Hispanic
+Yuba,2022/23,2128.0,Hispanic
+Alameda,2019/20,20937.0,White
+Alameda,2020/21,19558.0,White
+Alameda,2021/22,18336.0,White
+Alameda,2022/23,18820.0,White
+Alpine,2019/20,0.0,White
+Alpine,2020/21,0.0,White
+Alpine,2021/22,0.0,White
+Alpine,2022/23,0.0,White
+Amador,2019/20,2443.0,White
+Amador,2020/21,2544.0,White
+Amador,2021/22,2751.0,White
+Amador,2022/23,2835.0,White
+Butte,2019/20,24014.0,White
+Butte,2020/21,24615.0,White
+Butte,2021/22,23545.0,White
+Butte,2022/23,23006.0,White
+Calaveras,2019/20,3197.0,White
+Calaveras,2020/21,3522.0,White
+Calaveras,2021/22,3541.0,White
+Calaveras,2022/23,3685.0,White
+Colusa,2019/20,732.0,White
+Colusa,2020/21,738.0,White
+Colusa,2021/22,769.0,White
+Colusa,2022/23,1016.0,White
+Contra Costa,2019/20,18016.0,White
+Contra Costa,2020/21,17653.0,White
+Contra Costa,2021/22,18530.0,White
+Contra Costa,2022/23,18463.0,White
+Del Norte,2019/20,3859.0,White
+Del Norte,2020/21,3883.0,White
+Del Norte,2021/22,3672.0,White
+Del Norte,2022/23,3548.0,White
+El Dorado,2019/20,9620.0,White
+El Dorado,2020/21,9620.0,White
+El Dorado,2021/22,9193.0,White
+El Dorado,2022/23,9370.0,White
+Fresno,2019/20,22776.0,White
+Fresno,2020/21,22636.0,White
+Fresno,2021/22,21889.0,White
+Fresno,2022/23,20766.0,White
+Glenn,2019/20,2107.0,White
+Glenn,2020/21,2067.0,White
+Glenn,2021/22,1913.0,White
+Glenn,2022/23,1864.0,White
+Humboldt,2019/20,17182.0,White
+Humboldt,2020/21,18881.0,White
+Humboldt,2021/22,18995.0,White
+Humboldt,2022/23,19492.0,White
+Imperial,2019/20,2419.0,White
+Imperial,2020/21,2334.0,White
+Imperial,2021/22,2382.0,White
+Imperial,2022/23,2264.0,White
+Inyo,2019/20,908.0,White
+Inyo,2020/21,1051.0,White
+Inyo,2021/22,851.0,White
+Inyo,2022/23,968.0,White
+Kern,2019/20,39124.0,White
+Kern,2020/21,40409.0,White
+Kern,2021/22,40514.0,White
+Kern,2022/23,44578.0,White
+Kings,2019/20,5236.0,White
+Kings,2020/21,4711.0,White
+Kings,2021/22,4402.0,White
+Kings,2022/23,4413.0,White
+Lake,2019/20,9431.0,White
+Lake,2020/21,9851.0,White
+Lake,2021/22,10142.0,White
+Lake,2022/23,10384.0,White
+Lassen,2019/20,2661.0,White
+Lassen,2020/21,2867.0,White
+Lassen,2021/22,2626.0,White
+Lassen,2022/23,2779.0,White
+Los Angeles,2019/20,214766.0,White
+Los Angeles,2020/21,215437.0,White
+Los Angeles,2021/22,218062.0,White
+Los Angeles,2022/23,232769.0,White
+Madera,2019/20,5637.0,White
+Madera,2020/21,7390.0,White
+Madera,2021/22,6169.0,White
+Madera,2022/23,6067.0,White
+Marin,2019/20,10513.0,White
+Marin,2020/21,10784.0,White
+Marin,2021/22,11265.0,White
+Marin,2022/23,10570.0,White
+Mariposa,2019/20,1814.0,White
+Mariposa,2020/21,1749.0,White
+Mariposa,2021/22,1607.0,White
+Mariposa,2022/23,1594.0,White
+Mendocino,2019/20,12553.0,White
+Mendocino,2020/21,11648.0,White
+Mendocino,2021/22,11886.0,White
+Mendocino,2022/23,12329.0,White
+Merced,2019/20,9425.0,White
+Merced,2020/21,9364.0,White
+Merced,2021/22,9385.0,White
+Merced,2022/23,9467.0,White
+Modoc,2019/20,1238.0,White
+Modoc,2020/21,1134.0,White
+Modoc,2021/22,1144.0,White
+Modoc,2022/23,1161.0,White
+Mono,2019/20,451.0,White
+Mono,2020/21,400.0,White
+Mono,2021/22,554.0,White
+Mono,2022/23,477.0,White
+Monterey,2019/20,11190.0,White
+Monterey,2020/21,11266.0,White
+Monterey,2021/22,11184.0,White
+Monterey,2022/23,11990.0,White
+Napa,2019/20,5072.0,White
+Napa,2020/21,4800.0,White
+Napa,2021/22,5130.0,White
+Napa,2022/23,5214.0,White
+Nevada,2019/20,9631.0,White
+Nevada,2020/21,10447.0,White
+Nevada,2021/22,10529.0,White
+Nevada,2022/23,12098.0,White
+Orange,2019/20,69210.0,White
+Orange,2020/21,65983.0,White
+Orange,2021/22,67429.0,White
+Orange,2022/23,72132.0,White
+Placer,2019/20,13566.0,White
+Placer,2020/21,13740.0,White
+Placer,2021/22,11995.0,White
+Placer,2022/23,13313.0,White
+Plumas,2019/20,2066.0,White
+Plumas,2020/21,1771.0,White
+Plumas,2021/22,1891.0,White
+Plumas,2022/23,1648.0,White
+Riverside,2019/20,77748.0,White
+Riverside,2020/21,80139.0,White
+Riverside,2021/22,84066.0,White
+Riverside,2022/23,94214.0,White
+Sacramento,2019/20,53654.0,White
+Sacramento,2020/21,51945.0,White
+Sacramento,2021/22,49344.0,White
+Sacramento,2022/23,51613.0,White
+San Benito,2019/20,897.0,White
+San Benito,2020/21,988.0,White
+San Benito,2021/22,919.0,White
+San Benito,2022/23,893.0,White
+San Bernardino,2019/20,67492.0,White
+San Bernardino,2020/21,65586.0,White
+San Bernardino,2021/22,68703.0,White
+San Bernardino,2022/23,77102.0,White
+San Diego,2019/20,99052.0,White
+San Diego,2020/21,94099.0,White
+San Diego,2021/22,93838.0,White
+San Diego,2022/23,98278.0,White
+San Francisco,2019/20,15455.0,White
+San Francisco,2020/21,14358.0,White
+San Francisco,2021/22,13645.0,White
+San Francisco,2022/23,13452.0,White
+San Joaquin,2019/20,26354.0,White
+San Joaquin,2020/21,26778.0,White
+San Joaquin,2021/22,24541.0,White
+San Joaquin,2022/23,25737.0,White
+San Luis Obispo,2019/20,14510.0,White
+San Luis Obispo,2020/21,15199.0,White
+San Luis Obispo,2021/22,13485.0,White
+San Luis Obispo,2022/23,13390.0,White
+San Mateo,2019/20,13103.0,White
+San Mateo,2020/21,12305.0,White
+San Mateo,2021/22,12182.0,White
+San Mateo,2022/23,12461.0,White
+Santa Barbara,2019/20,20547.0,White
+Santa Barbara,2020/21,22070.0,White
+Santa Barbara,2021/22,21028.0,White
+Santa Barbara,2022/23,17161.0,White
+Santa Clara,2019/20,22893.0,White
+Santa Clara,2020/21,23427.0,White
+Santa Clara,2021/22,23259.0,White
+Santa Clara,2022/23,23890.0,White
+Santa Cruz,2019/20,13547.0,White
+Santa Cruz,2020/21,12805.0,White
+Santa Cruz,2021/22,12582.0,White
+Santa Cruz,2022/23,12628.0,White
+Shasta,2019/20,25112.0,White
+Shasta,2020/21,25084.0,White
+Shasta,2021/22,25262.0,White
+Shasta,2022/23,27067.0,White
+Sierra,2019/20,0.0,White
+Sierra,2020/21,0.0,White
+Sierra,2021/22,0.0,White
+Sierra,2022/23,0.0,White
+Siskiyou,2019/20,6038.0,White
+Siskiyou,2020/21,6001.0,White
+Siskiyou,2021/22,6087.0,White
+Siskiyou,2022/23,5597.0,White
+Small-Rural Counties,2019/20,30759.0,White
+Small-Rural Counties,2020/21,31438.0,White
+Small-Rural Counties,2021/22,31157.0,White
+Small-Rural Counties,2022/23,31101.0,White
+Solano,2019/20,11624.0,White
+Solano,2020/21,11931.0,White
+Solano,2021/22,11901.0,White
+Solano,2022/23,11787.0,White
+Sonoma,2019/20,20350.0,White
+Sonoma,2020/21,18377.0,White
+Sonoma,2021/22,18926.0,White
+Sonoma,2022/23,19596.0,White
+Stanislaus,2019/20,26238.0,White
+Stanislaus,2020/21,25004.0,White
+Stanislaus,2021/22,23132.0,White
+Stanislaus,2022/23,24448.0,White
+Sutter,2019/20,5136.0,White
+Sutter,2020/21,5172.0,White
+Sutter,2021/22,5061.0,White
+Sutter,2022/23,5392.0,White
+Tehama,2019/20,6460.0,White
+Tehama,2020/21,6161.0,White
+Tehama,2021/22,5687.0,White
+Tehama,2022/23,5853.0,White
+Trinity,2019/20,1157.0,White
+Trinity,2020/21,1285.0,White
+Trinity,2021/22,1286.0,White
+Trinity,2022/23,1478.0,White
+Tulare,2019/20,15127.0,White
+Tulare,2020/21,14265.0,White
+Tulare,2021/22,14063.0,White
+Tulare,2022/23,14975.0,White
+Tuolumne,2019/20,5302.0,White
+Tuolumne,2020/21,5150.0,White
+Tuolumne,2021/22,5223.0,White
+Tuolumne,2022/23,5184.0,White
+Ventura,2019/20,21958.0,White
+Ventura,2020/21,22280.0,White
+Ventura,2021/22,22140.0,White
+Ventura,2022/23,22914.0,White
+Yolo,2019/20,7046.0,White
+Yolo,2020/21,6727.0,White
+Yolo,2021/22,6523.0,White
+Yolo,2022/23,6520.0,White
+Yuba,2019/20,6171.0,White
+Yuba,2020/21,5819.0,White
+Yuba,2021/22,6140.0,White
+Yuba,2022/23,6477.0,White
+Alameda,2019/20,24861.0,Other
+Alameda,2020/21,29517.0,Other
+Alameda,2021/22,32668.0,Other
+Alameda,2022/23,9314.0,Other
+Alpine,2019/20,0.0,Other
+Alpine,2021/22,0.0,Other
+Amador,2019/20,0.0,Other
+Amador,2020/21,0.0,Other
+Amador,2021/22,14.0,Other
+Amador,2022/23,0.0,Other
+Butte,2019/20,384.0,Other
+Butte,2020/21,476.0,Other
+Butte,2021/22,498.0,Other
+Butte,2022/23,397.0,Other
+Calaveras,2019/20,12.0,Other
+Calaveras,2020/21,51.0,Other
+Calaveras,2021/22,30.0,Other
+Calaveras,2022/23,0.0,Other
+Colusa,2019/20,0.0,Other
+Colusa,2020/21,0.0,Other
+Colusa,2021/22,0.0,Other
+Colusa,2022/23,0.0,Other
+Contra Costa,2019/20,15219.0,Other
+Contra Costa,2020/21,18098.0,Other
+Contra Costa,2021/22,15339.0,Other
+Contra Costa,2022/23,3936.0,Other
+Del Norte,2019/20,12.0,Other
+Del Norte,2020/21,30.0,Other
+Del Norte,2021/22,16.0,Other
+Del Norte,2022/23,0.0,Other
+El Dorado,2019/20,224.0,Other
+El Dorado,2020/21,250.0,Other
+El Dorado,2021/22,294.0,Other
+El Dorado,2022/23,173.0,Other
+Fresno,2019/20,16341.0,Other
+Fresno,2020/21,21143.0,Other
+Fresno,2021/22,23570.0,Other
+Fresno,2022/23,3673.0,Other
+Glenn,2019/20,0.0,Other
+Glenn,2020/21,0.0,Other
+Glenn,2021/22,11.0,Other
+Glenn,2022/23,12.0,Other
+Humboldt,2019/20,354.0,Other
+Humboldt,2020/21,475.0,Other
+Humboldt,2021/22,444.0,Other
+Humboldt,2022/23,396.0,Other
+Imperial,2019/20,144.0,Other
+Imperial,2020/21,214.0,Other
+Imperial,2021/22,145.0,Other
+Imperial,2022/23,86.0,Other
+Inyo,2019/20,0.0,Other
+Inyo,2020/21,0.0,Other
+Inyo,2021/22,0.0,Other
+Inyo,2022/23,0.0,Other
+Kern,2019/20,1019.0,Other
+Kern,2020/21,1315.0,Other
+Kern,2021/22,1233.0,Other
+Kern,2022/23,1176.0,Other
+Kings,2019/20,189.0,Other
+Kings,2020/21,251.0,Other
+Kings,2021/22,204.0,Other
+Kings,2022/23,127.0,Other
+Lake,2019/20,83.0,Other
+Lake,2020/21,105.0,Other
+Lake,2021/22,99.0,Other
+Lake,2022/23,107.0,Other
+Lassen,2019/20,0.0,Other
+Lassen,2020/21,0.0,Other
+Lassen,2021/22,0.0,Other
+Lassen,2022/23,0.0,Other
+Los Angeles,2019/20,19655.0,Other
+Los Angeles,2020/21,20811.0,Other
+Los Angeles,2021/22,22363.0,Other
+Los Angeles,2022/23,24382.0,Other
+Madera,2019/20,176.0,Other
+Madera,2020/21,320.0,Other
+Madera,2021/22,233.0,Other
+Madera,2022/23,177.0,Other
+Marin,2019/20,461.0,Other
+Marin,2020/21,586.0,Other
+Marin,2021/22,592.0,Other
+Marin,2022/23,504.0,Other
+Mariposa,2019/20,0.0,Other
+Mariposa,2020/21,0.0,Other
+Mariposa,2021/22,0.0,Other
+Mariposa,2022/23,0.0,Other
+Mendocino,2019/20,198.0,Other
+Mendocino,2020/21,252.0,Other
+Mendocino,2021/22,351.0,Other
+Mendocino,2022/23,242.0,Other
+Merced,2019/20,371.0,Other
+Merced,2020/21,584.0,Other
+Merced,2021/22,728.0,Other
+Merced,2022/23,439.0,Other
+Modoc,2019/20,0.0,Other
+Modoc,2020/21,0.0,Other
+Modoc,2021/22,0.0,Other
+Modoc,2022/23,0.0,Other
+Mono,2019/20,0.0,Other
+Mono,2020/21,0.0,Other
+Mono,2021/22,0.0,Other
+Mono,2022/23,0.0,Other
+Monterey,2019/20,631.0,Other
+Monterey,2020/21,644.0,Other
+Monterey,2021/22,637.0,Other
+Monterey,2022/23,531.0,Other
+Napa,2019/20,168.0,Other
+Napa,2020/21,170.0,Other
+Napa,2021/22,179.0,Other
+Napa,2022/23,103.0,Other
+Nevada,2019/20,151.0,Other
+Nevada,2020/21,166.0,Other
+Nevada,2021/22,174.0,Other
+Nevada,2022/23,175.0,Other
+Orange,2019/20,30349.0,Other
+Orange,2020/21,30725.0,Other
+Orange,2021/22,30718.0,Other
+Orange,2022/23,15414.0,Other
+Placer,2019/20,1580.0,Other
+Placer,2020/21,2076.0,Other
+Placer,2021/22,1055.0,Other
+Placer,2022/23,798.0,Other
+Plumas,2019/20,0.0,Other
+Plumas,2020/21,0.0,Other
+Plumas,2021/22,0.0,Other
+Plumas,2022/23,0.0,Other
+Riverside,2019/20,3532.0,Other
+Riverside,2020/21,3852.0,Other
+Riverside,2021/22,4344.0,Other
+Riverside,2022/23,4570.0,Other
+Sacramento,2019/20,36111.0,Other
+Sacramento,2020/21,43521.0,Other
+Sacramento,2021/22,45269.0,Other
+Sacramento,2022/23,14465.0,Other
+San Benito,2019/20,16.0,Other
+San Benito,2020/21,15.0,Other
+San Benito,2021/22,30.0,Other
+San Benito,2022/23,0.0,Other
+San Bernardino,2019/20,2419.0,Other
+San Bernardino,2020/21,2620.0,Other
+San Bernardino,2021/22,2795.0,Other
+San Bernardino,2022/23,3486.0,Other
+San Diego,2019/20,92898.0,Other
+San Diego,2020/21,106611.0,Other
+San Diego,2021/22,122820.0,Other
+San Diego,2022/23,22189.0,Other
+San Francisco,2019/20,19980.0,Other
+San Francisco,2020/21,23800.0,Other
+San Francisco,2021/22,25070.0,Other
+San Francisco,2022/23,4948.0,Other
+San Joaquin,2019/20,2012.0,Other
+San Joaquin,2020/21,2123.0,Other
+San Joaquin,2021/22,2242.0,Other
+San Joaquin,2022/23,2494.0,Other
+San Luis Obispo,2019/20,6355.0,Other
+San Luis Obispo,2020/21,8093.0,Other
+San Luis Obispo,2021/22,9465.0,Other
+San Luis Obispo,2022/23,1084.0,Other
+San Mateo,2019/20,7140.0,Other
+San Mateo,2020/21,7520.0,Other
+San Mateo,2021/22,8422.0,Other
+San Mateo,2022/23,2660.0,Other
+Santa Barbara,2019/20,6423.0,Other
+Santa Barbara,2020/21,8496.0,Other
+Santa Barbara,2021/22,8018.0,Other
+Santa Barbara,2022/23,1339.0,Other
+Santa Clara,2019/20,13021.0,Other
+Santa Clara,2020/21,16479.0,Other
+Santa Clara,2021/22,14528.0,Other
+Santa Clara,2022/23,7443.0,Other
+Santa Cruz,2019/20,6619.0,Other
+Santa Cruz,2020/21,7674.0,Other
+Santa Cruz,2021/22,8683.0,Other
+Santa Cruz,2022/23,1299.0,Other
+Shasta,2019/20,269.0,Other
+Shasta,2020/21,285.0,Other
+Shasta,2021/22,297.0,Other
+Shasta,2022/23,423.0,Other
+Sierra,2019/20,0.0,Other
+Siskiyou,2019/20,54.0,Other
+Siskiyou,2020/21,35.0,Other
+Siskiyou,2021/22,53.0,Other
+Siskiyou,2022/23,52.0,Other
+Small-Rural Counties,2019/20,360.0,Other
+Small-Rural Counties,2020/21,478.0,Other
+Small-Rural Counties,2021/22,482.0,Other
+Small-Rural Counties,2022/23,351.0,Other
+Solano,2019/20,6485.0,Other
+Solano,2020/21,7140.0,Other
+Solano,2021/22,6733.0,Other
+Solano,2022/23,1267.0,Other
+Sonoma,2019/20,11632.0,Other
+Sonoma,2020/21,13120.0,Other
+Sonoma,2021/22,14096.0,Other
+Sonoma,2022/23,5418.0,Other
+Stanislaus,2019/20,950.0,Other
+Stanislaus,2020/21,1071.0,Other
+Stanislaus,2021/22,1084.0,Other
+Stanislaus,2022/23,1107.0,Other
+Sutter,2019/20,63.0,Other
+Sutter,2020/21,91.0,Other
+Sutter,2021/22,89.0,Other
+Sutter,2022/23,70.0,Other
+Tehama,2019/20,15.0,Other
+Tehama,2020/21,51.0,Other
+Tehama,2021/22,31.0,Other
+Tehama,2022/23,13.0,Other
+Trinity,2019/20,0.0,Other
+Trinity,2020/21,0.0,Other
+Trinity,2021/22,0.0,Other
+Trinity,2022/23,0.0,Other
+Tulare,2019/20,6922.0,Other
+Tulare,2020/21,9409.0,Other
+Tulare,2021/22,6853.0,Other
+Tulare,2022/23,1229.0,Other
+Tuolumne,2019/20,32.0,Other
+Tuolumne,2020/21,15.0,Other
+Tuolumne,2021/22,0.0,Other
+Tuolumne,2022/23,31.0,Other
+Ventura,2019/20,11516.0,Other
+Ventura,2020/21,15556.0,Other
+Ventura,2021/22,15142.0,Other
+Ventura,2022/23,2193.0,Other
+Yolo,2019/20,2673.0,Other
+Yolo,2020/21,3111.0,Other
+Yolo,2021/22,1031.0,Other
+Yolo,2022/23,765.0,Other
+Yuba,2019/20,121.0,Other
+Yuba,2020/21,143.0,Other
+Yuba,2021/22,170.0,Other
+Yuba,2022/23,117.0,Other
+Alameda,2019/20,6111.0,Unknown
+Alameda,2020/21,5420.0,Unknown
+Alameda,2021/22,5433.0,Unknown
+Alameda,2022/23,24809.0,Unknown
+Alpine,2019/20,0.0,Unknown
+Alpine,2020/21,0.0,Unknown
+Alpine,2021/22,0.0,Unknown
+Alpine,2022/23,0.0,Unknown
+Amador,2019/20,136.0,Unknown
+Amador,2020/21,157.0,Unknown
+Amador,2021/22,150.0,Unknown
+Amador,2022/23,316.0,Unknown
+Butte,2019/20,2634.0,Unknown
+Butte,2020/21,2432.0,Unknown
+Butte,2021/22,2325.0,Unknown
+Butte,2022/23,2394.0,Unknown
+Calaveras,2019/20,165.0,Unknown
+Calaveras,2020/21,167.0,Unknown
+Calaveras,2021/22,67.0,Unknown
+Calaveras,2022/23,249.0,Unknown
+Colusa,2019/20,75.0,Unknown
+Colusa,2020/21,118.0,Unknown
+Colusa,2021/22,130.0,Unknown
+Colusa,2022/23,139.0,Unknown
+Contra Costa,2019/20,3410.0,Unknown
+Contra Costa,2020/21,3003.0,Unknown
+Contra Costa,2021/22,7146.0,Unknown
+Contra Costa,2022/23,15334.0,Unknown
+Del Norte,2019/20,331.0,Unknown
+Del Norte,2020/21,242.0,Unknown
+Del Norte,2021/22,261.0,Unknown
+Del Norte,2022/23,181.0,Unknown
+El Dorado,2019/20,1328.0,Unknown
+El Dorado,2020/21,1302.0,Unknown
+El Dorado,2021/22,1398.0,Unknown
+El Dorado,2022/23,1580.0,Unknown
+Fresno,2019/20,9843.0,Unknown
+Fresno,2020/21,11366.0,Unknown
+Fresno,2021/22,11865.0,Unknown
+Fresno,2022/23,25827.0,Unknown
+Glenn,2019/20,100.0,Unknown
+Glenn,2020/21,99.0,Unknown
+Glenn,2021/22,72.0,Unknown
+Glenn,2022/23,140.0,Unknown
+Humboldt,2019/20,2556.0,Unknown
+Humboldt,2020/21,2805.0,Unknown
+Humboldt,2021/22,3112.0,Unknown
+Humboldt,2022/23,3088.0,Unknown
+Imperial,2019/20,1009.0,Unknown
+Imperial,2020/21,1002.0,Unknown
+Imperial,2021/22,564.0,Unknown
+Imperial,2022/23,667.0,Unknown
+Inyo,2019/20,0.0,Unknown
+Inyo,2020/21,0.0,Unknown
+Inyo,2021/22,0.0,Unknown
+Inyo,2022/23,22.0,Unknown
+Kern,2019/20,5871.0,Unknown
+Kern,2020/21,7010.0,Unknown
+Kern,2021/22,6364.0,Unknown
+Kern,2022/23,7266.0,Unknown
+Kings,2019/20,708.0,Unknown
+Kings,2020/21,405.0,Unknown
+Kings,2021/22,854.0,Unknown
+Kings,2022/23,744.0,Unknown
+Lake,2019/20,512.0,Unknown
+Lake,2020/21,492.0,Unknown
+Lake,2021/22,508.0,Unknown
+Lake,2022/23,498.0,Unknown
+Lassen,2019/20,112.0,Unknown
+Lassen,2020/21,101.0,Unknown
+Lassen,2021/22,120.0,Unknown
+Lassen,2022/23,131.0,Unknown
+Los Angeles,2019/20,68850.0,Unknown
+Los Angeles,2020/21,62852.0,Unknown
+Los Angeles,2021/22,60668.0,Unknown
+Los Angeles,2022/23,65459.0,Unknown
+Madera,2019/20,1126.0,Unknown
+Madera,2020/21,1713.0,Unknown
+Madera,2021/22,1331.0,Unknown
+Madera,2022/23,1449.0,Unknown
+Marin,2019/20,446.0,Unknown
+Marin,2020/21,492.0,Unknown
+Marin,2021/22,717.0,Unknown
+Marin,2022/23,663.0,Unknown
+Mariposa,2019/20,63.0,Unknown
+Mariposa,2020/21,75.0,Unknown
+Mariposa,2021/22,20.0,Unknown
+Mariposa,2022/23,60.0,Unknown
+Mendocino,2019/20,1230.0,Unknown
+Mendocino,2020/21,1085.0,Unknown
+Mendocino,2021/22,1107.0,Unknown
+Mendocino,2022/23,1204.0,Unknown
+Merced,2019/20,646.0,Unknown
+Merced,2020/21,737.0,Unknown
+Merced,2021/22,640.0,Unknown
+Merced,2022/23,714.0,Unknown
+Modoc,2019/20,40.0,Unknown
+Modoc,2020/21,20.0,Unknown
+Modoc,2021/22,107.0,Unknown
+Modoc,2022/23,116.0,Unknown
+Mono,2019/20,30.0,Unknown
+Mono,2020/21,0.0,Unknown
+Mono,2021/22,33.0,Unknown
+Mono,2022/23,32.0,Unknown
+Monterey,2019/20,2493.0,Unknown
+Monterey,2020/21,2970.0,Unknown
+Monterey,2021/22,2624.0,Unknown
+Monterey,2022/23,2936.0,Unknown
+Napa,2019/20,180.0,Unknown
+Napa,2020/21,121.0,Unknown
+Napa,2021/22,119.0,Unknown
+Napa,2022/23,252.0,Unknown
+Nevada,2019/20,788.0,Unknown
+Nevada,2020/21,909.0,Unknown
+Nevada,2021/22,1091.0,Unknown
+Nevada,2022/23,1202.0,Unknown
+Orange,2019/20,19895.0,Unknown
+Orange,2020/21,23059.0,Unknown
+Orange,2021/22,32988.0,Unknown
+Orange,2022/23,48907.0,Unknown
+Placer,2019/20,2220.0,Unknown
+Placer,2020/21,2659.0,Unknown
+Placer,2021/22,4431.0,Unknown
+Placer,2022/23,4658.0,Unknown
+Plumas,2019/20,75.0,Unknown
+Plumas,2020/21,97.0,Unknown
+Plumas,2021/22,112.0,Unknown
+Plumas,2022/23,76.0,Unknown
+Riverside,2019/20,19134.0,Unknown
+Riverside,2020/21,20388.0,Unknown
+Riverside,2021/22,22471.0,Unknown
+Riverside,2022/23,27411.0,Unknown
+Sacramento,2019/20,9829.0,Unknown
+Sacramento,2020/21,10584.0,Unknown
+Sacramento,2021/22,11589.0,Unknown
+Sacramento,2022/23,37539.0,Unknown
+San Benito,2019/20,137.0,Unknown
+San Benito,2020/21,170.0,Unknown
+San Benito,2021/22,154.0,Unknown
+San Benito,2022/23,201.0,Unknown
+San Bernardino,2019/20,15318.0,Unknown
+San Bernardino,2020/21,14785.0,Unknown
+San Bernardino,2021/22,15549.0,Unknown
+San Bernardino,2022/23,17435.0,Unknown
+San Diego,2019/20,21440.0,Unknown
+San Diego,2020/21,18509.0,Unknown
+San Diego,2021/22,18259.0,Unknown
+San Diego,2022/23,108386.0,Unknown
+San Francisco,2019/20,3386.0,Unknown
+San Francisco,2020/21,3119.0,Unknown
+San Francisco,2021/22,2987.0,Unknown
+San Francisco,2022/23,21822.0,Unknown
+San Joaquin,2019/20,8079.0,Unknown
+San Joaquin,2020/21,8533.0,Unknown
+San Joaquin,2021/22,8486.0,Unknown
+San Joaquin,2022/23,9215.0,Unknown
+San Luis Obispo,2019/20,1807.0,Unknown
+San Luis Obispo,2020/21,2465.0,Unknown
+San Luis Obispo,2021/22,1859.0,Unknown
+San Luis Obispo,2022/23,9003.0,Unknown
+San Mateo,2019/20,3410.0,Unknown
+San Mateo,2020/21,3973.0,Unknown
+San Mateo,2021/22,2545.0,Unknown
+San Mateo,2022/23,7649.0,Unknown
+Santa Barbara,2019/20,2649.0,Unknown
+Santa Barbara,2020/21,2938.0,Unknown
+Santa Barbara,2021/22,4962.0,Unknown
+Santa Barbara,2022/23,8561.0,Unknown
+Santa Clara,2019/20,6898.0,Unknown
+Santa Clara,2020/21,6860.0,Unknown
+Santa Clara,2021/22,10004.0,Unknown
+Santa Clara,2022/23,15665.0,Unknown
+Santa Cruz,2019/20,2479.0,Unknown
+Santa Cruz,2020/21,2245.0,Unknown
+Santa Cruz,2021/22,2535.0,Unknown
+Santa Cruz,2022/23,8733.0,Unknown
+Shasta,2019/20,2348.0,Unknown
+Shasta,2020/21,2319.0,Unknown
+Shasta,2021/22,2071.0,Unknown
+Shasta,2022/23,2537.0,Unknown
+Sierra,2019/20,0.0,Unknown
+Sierra,2020/21,0.0,Unknown
+Sierra,2021/22,0.0,Unknown
+Sierra,2022/23,0.0,Unknown
+Siskiyou,2019/20,645.0,Unknown
+Siskiyou,2020/21,597.0,Unknown
+Siskiyou,2021/22,503.0,Unknown
+Siskiyou,2022/23,532.0,Unknown
+Small-Rural Counties,2019/20,3076.0,Unknown
+Small-Rural Counties,2020/21,2980.0,Unknown
+Small-Rural Counties,2021/22,2770.0,Unknown
+Small-Rural Counties,2022/23,3047.0,Unknown
+Solano,2019/20,2118.0,Unknown
+Solano,2020/21,2112.0,Unknown
+Solano,2021/22,2087.0,Unknown
+Solano,2022/23,5166.0,Unknown
+Sonoma,2019/20,2426.0,Unknown
+Sonoma,2020/21,2105.0,Unknown
+Sonoma,2021/22,2794.0,Unknown
+Sonoma,2022/23,9385.0,Unknown
+Stanislaus,2019/20,5168.0,Unknown
+Stanislaus,2020/21,5754.0,Unknown
+Stanislaus,2021/22,5226.0,Unknown
+Stanislaus,2022/23,5694.0,Unknown
+Sutter,2019/20,443.0,Unknown
+Sutter,2020/21,303.0,Unknown
+Sutter,2021/22,287.0,Unknown
+Sutter,2022/23,479.0,Unknown
+Tehama,2019/20,527.0,Unknown
+Tehama,2020/21,366.0,Unknown
+Tehama,2021/22,411.0,Unknown
+Tehama,2022/23,393.0,Unknown
+Trinity,2019/20,86.0,Unknown
+Trinity,2020/21,90.0,Unknown
+Trinity,2021/22,111.0,Unknown
+Trinity,2022/23,73.0,Unknown
+Tulare,2019/20,2209.0,Unknown
+Tulare,2020/21,2001.0,Unknown
+Tulare,2021/22,5329.0,Unknown
+Tulare,2022/23,9566.0,Unknown
+Tuolumne,2019/20,242.0,Unknown
+Tuolumne,2020/21,212.0,Unknown
+Tuolumne,2021/22,344.0,Unknown
+Tuolumne,2022/23,276.0,Unknown
+Ventura,2019/20,5049.0,Unknown
+Ventura,2020/21,5744.0,Unknown
+Ventura,2021/22,7138.0,Unknown
+Ventura,2022/23,16672.0,Unknown
+Yolo,2019/20,1595.0,Unknown
+Yolo,2020/21,1484.0,Unknown
+Yolo,2021/22,2745.0,Unknown
+Yolo,2022/23,2965.0,Unknown
+Yuba,2019/20,469.0,Unknown
+Yuba,2020/21,597.0,Unknown
+Yuba,2021/22,683.0,Unknown
+Yuba,2022/23,694.0,Unknown
